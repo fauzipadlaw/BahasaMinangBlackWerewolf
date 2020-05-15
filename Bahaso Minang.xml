@@ -14,59 +14,56 @@
   </string>
   <string key="NoJoinGameRunning" deprecated="true">
     <value>Sanak talambek! pamainan sadang balangsuang. /nextgame yo sanak.</value>
-	  <value>Pamainan sadang balangsuang. silakan manunggu pamainan salanjutnyo se yo.</value>
+	  <value>Pamainan sadang balangsuang. Silakan manunggu pamainan salanjuiknyo.</value>
   </string>
   <string key="AlreadyJoined" deprecated="true">
     <value>Sanak alah ikuik bamain, jan takan juo lai. Mada bana! hiks hisks nio caliak moderator ngambok?? </value>
 	  <value>Sanak alah bagabuang di pamainan, Tunggu se dulu yo.⌛️</value>
   </string>
   <string key="MinuteLeftToJoin">
-    <value>📣 saminik lai untuak join. Capek lah takan tombol tu sanak!</value>
+    <value>📣 Saminik lai untuak join!</value>
   </string>
   <string key="SecondsLeftToJoin">
-    <value>📣 {0} datiak lai untuak join</value>
+    <value>📣 {0} datiak lai untuak join!</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>Sagiko se nan join nyo? Ma yang lain ko?? Usah denai digantuang indak bataliii ♫♫ </value>
-	<value>Dak cukuik pamain do, kama lah nan lain ko? Malas dedek mah kok co iko!</value>
+    <value>Jumlah pamain indak cukuik! </value>
   </string>
   <string key="StartingGameWait">
     <value>Saba sanak, ko ka dimulai lai a ⌛️</value>
-    <value>Ciek... Duo... Tigo...⌛️ GO!!</value>
+    <value>Ciek... Duo... Tigo...⌛️ Lambuik!</value>
   </string>
   <string key="BannedForExploit" deprecated="true">
     <value>{0} akun sanak kanai banned. (jan pakai / di namo sanak)</value>
   </string>
   <string key="ChangeNameToJoin">
-    <value>{0}, ganti namo sanak dulu yoo</value>
+    <value>{0}, ganti namo sanak dulu!</value>
   </string>
   <string key="PlayerLimitReached">
-    <value>Maaf yo, kuota pamain maksimal (35 pamain) alah cukuik. Cubo beko liak dih.</value>
-	<value>Jumlah maksimal pamain (35 pamain) alah cukuik, cubo beko liak yo.</value>
+    <value>Maaf sanak, kuota pamain maksimal (35 pamain) alah cukuik. Cubo /nextgame.</value>
+	<value>Jumlah maksimal pamain (35 pamain) alah cukuik, cubo beko /nextgame.</value>
   </string>
   <string key="PlayerJoined">
-    <value>{0} bagabuang. {1} pamain, {2} minimum, {3} max</value>
+    <value>{0} bagabuang. {1} pamain, {2} paliang saketek, {3} paliang banyak.</value>
   </string>
   <string key="PMTheBot">
-    <value>{0} Supayo dapek bamain, Takan /start di PM bot ({1}). Beko diagiah patunjuak dek bot mah.</value>
+    <value>{0} Supayo dapek bamain, takan /start di PM bot ({1}). Beko diagiah patunjuak dek botnyo mah sanak :)</value>
   </string>
   <string key="DeadFlee">
-    <value>HEH! Ka pai kama? Ndak tau sanak alah mati? Malaikek mungkar nangkir mancari dari tadi tu ha, HIH! 👻</value>
-	<value>Karambia!! Ado zombie malarikan diri!! 👻</value>
+    <value>HEH! Ka pai kama? Ndak tau sanak alah mati? 👻</value>
   </string>
   <string key="Flee">
-    <value>{0} panakuik! lamah bana huh, mati karancak an! 👎 :(</value>
-	<value>{0} kama juo lai? kabur-kabur se mah 😑</value>
+    <value>{0} kabur! Dasar amatir!</value>
   </string>
   <string key="PlayerRoleWas">
-    <value>{0} inyo {1}</value>
+    <value>{0} adolah {1}</value>
   </string>
   <string key="CountPlayersRemain">
     <value>{0} pamain tasiso.</value>
   </string>
   <string key="DidntAsk">
-    <value>Saba.. alun gilirinyo main 🚦.</value>
-	<value>Bantuaknyo ado nan salah..🚧</value>
+    <value>Saba.. alun giliran main 🚦.</value>
+	  <value>Bantuaknyo ado nan salah..🚧</value>
   </string>
   <string key="NotPlaying">
     <value>Sanak indak ikuik main do.</value>
@@ -75,127 +72,117 @@
     <value>Cari se namo lain lai sanak, namo ko dak cocok jo sanak doh hahaha. Silakan takan 0 untuak bantuan operator!</value>
   </string>
   <string key="AnswerNonValid">
-    <value>Jawaban Sanak, salah! Ibo e lai, dak jadi dapek baruak piaman terlatih seharga 10 batang karambia .</value>
-	<value>Yak, jawaban Sanak salah! Serigala alah manyantap sanak. KRIYUKKRIYUK..\n...\neh dak jadi do, just kidding beibeh 😆</value>
+    <value>Jawaban sanak salah! Sanak alah gagal.</value>
   </string>
   <string key="WolfVotedKill">
     <value>{0} mamiliah mamakan {1}</value>
   </string>
   <string key="PlayerVotedLynch">
-    <value>{0} mamiliah {1} untuak dieksekusi.</value>
+    <value>{0} mamiliah {1} untuak dibaka.</value>
   </string>
   <string key="IdleKill">
-    <value>☠ {0} mailang 2 malam baturuik-turuik. Apak e berang, {0} mati dak diagiah pitih balanjo.
-	{1}</value>
-	  <value>☠ {0} mailang 2 malam baturuik-turuik. Jan AFK juo kecek urang -_- , {0} mati tacucuak duri cinto.
-	{1}</value>
-	  <value>☠{0} mailang 2 malam baturuik-turuik. Tanganyo sibuak manggaruik-garuik kapalo, {0} mati dek banyak kutu.
+	  <value>☠ {0} mailang 2 indak sato maagiah suaro 2 hari baturuik-turuik. Jan AFK juo kecek urang -_-
 	{1}</value>
   </string>
   <string key="TraitorTurnWolf">
-    <value>sado serigala alah mati, Sanak pai ka rimbo dan bulu-bulu tumbuah di badan sanak, Sanak mangalami puber kaduo sabagai SERIGALA!</value>
-	<value>sado sarigala alah mati, daripado pamaianan salasai, Sanak barubah jadi SERIGALA!</value>
+	  <value>Sado sarigala alah mati. Daripado pamaianan salasai, sanak barubah jadi SERIGALA!</value>
   </string>
   <string key="ChoiceAccepted">
-    <value>Pilihan Sanak alah ditarimo! 😘</value>
-	<value>Pilihan Sanak alah ditarimo! 💋</value>
-	<value>Pilihan Sanak alah ditarimo! 😗</value>
+    <value>Pilihan Sanak alah ditarimo!</value>
   </string>
   <string key="BeholderSeer">
-    <value>Si penerawang (Seer) 👳 sejati adolah {0}.</value>
+    <value>Si Dukun (Seer) 👳 sejati adolah {0}.</value>
   </string>
   <string key="ApprenticeNowSeer">
-    <value>{0} adolah penerawang (Seer) 👳 dan alah mati. Sabagai murid penerawang (Apprentice), Sanak naiak pangkek sabagai penerawang.</value>
+    <value>{0} adolah Dukun (Seer) 👳 dan alah mati. Sabagai murik dukun (Apprentice), sanak naiak pangkek sabagai penerawang.</value>
   </string>
   <string key="BeholderNewSeer">
-    <value>{0} adolah Murid Penerawang (Apprentice), dan kini {0} manggantian tugas {1} sabagai Penerawang 👳.</value>
+    <value>{0} adolah Murik Dukun (Apprentice). Kini {0} manggantian tugas {1} sabagai Dukun 👳.</value>
   </string>
   <string key="SeerSees">
-    <value>Sanak mancaliak {0} sabagai {1}! Alah samalaman mambaco mantera, Sanak pun taduduak latiah.</value>
+    <value>Sanak mancaliak {0} sabagai {1}!</value>
   </string>
   <string key="AskLynch">
-    <value>Siapo nan ka dieksekusi? 🔥</value>
+    <value>Siapo nan ka sanak baka? 🔥</value>
   </string>
   <string key="AskDetect">
-    <value>Siapo nan ka Sanak awasi?</value>
+    <value>Siapo nan ka sanak awasi?</value>
   </string>
   <string key="AskShoot">
-    <value>Siapo nan ka Sanak tembak? Siso peluru {0} incek.</value>
+    <value>Siapo nan ka sanak tembak? Siso peluru {0} incek.</value>
   </string>
   <string key="AskVisit">
-    <value>Siapo nan ka Sanak baok indehoy? 👄</value>
+    <value>Siapo nan ka sanak baok indehoy? 👄</value>
   </string>
   <string key="AskSee">
-    <value>Siapo nan ka Sanak terawang?</value>
+    <value>Siapo nan ka sanak terawang?</value>
   </string>
   <string key="AskGuard">
-    <value>Siapo nan ka Sanak lindungi?</value>
+    <value>Siapo nan ka sanak lindungi?</value>
   </string>
   <string key="AskEat">
-    <value>Siapo nan ka Sanak makan?</value>
+    <value>Siapo nan ka sanak makan?</value>
   </string>
   <string key="AskHunt">
-    <value>Siapo nan ka Sanak buru?</value>
+    <value>Siapo nan ka sanak buru?</value>
   </string>
   <string key="AskRoleModel">
-    <value>Siapo nan manjadi Induak Samang sanak?</value>
 	<value>Siapo nan manjadi tokoh idola sanak?</value>
   </string>
   <string key="AskConvert">
-    <value>Siapo nan ka Sanak hasut bagabuang jo aliran sanak?</value>
+    <value>Siapo nan ka sanak hasuik untuak bagabuang jo aliran sanak?</value>
   </string>
   <string key="DiscussWith">
-    <value>Pastikan Sanak badiskusi jo {0} </value>
+    <value>Pastian sana bamufakaik jo {0} </value>
   </string>
   <string key="And">
     <value> ,dan </value>
   </string>
   <string key="RoleInfoCursed">
-    <value>Takutuak! Sanak tu Cursed 😾, kini ko Sanak adolah Masyarakaik Biaso.
-	Tapi kok di gigik dek Serigala, Sanak beko jadi Serigala lo.</value>
+    <value>Takutuak! Sanak tu Cursed 😾, kini ko sanak adolah Masyarakaik Biaso.
+	Tapi kok di gigik dek Serigala, sanak beko jadi Serigala.</value>
   </string>
   <string key="RoleInfoDetective">
     <value>Sanak tu detektif 🕵, nan bisa mangawasi gerak gerik mancurigakan dan mambuka kedok pamain pilihan sanak di siang hari.
 	Tapi jikok Sanak mangawasi serigala, 40% kamungkinan inyo akan sadar alah diawasi dek sanak.</value>
   </string>
   <string key="RoleInfoDrunk">
-    <value>Sanak tu Drunk 🍻, Pamabuak nan acok takalok di jamban.
-	Kadar alkohol sanak mancapai 120 persen, sahinggo serigala pun mabuk katiko mamakan sanak.</value>
+    <value>Sanak tu Drunk 🍻, Kalau Serigala makan sanak bisuak malamnyo kawanan Serigala jadi mabuak sahinggo dak bisa mamakan masyarakaik.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>Sanak tu Guardian Angel 👼. Satiok malam Sanak harus malindungi 1 pamain piliahan sanak.
-	Tapi kok Sanak mamiliah serigala, 50 persen kamungkinan Sanak beko mati..</value>
+    <value>Sanak tu Guardian Angel 👼. Satiok malam sanak harus malindungi 1 pamain piliahan sanak.
+	Tapi kok sanak mamiliah serigala, 50 persen kamungkinan sanak beko mati.</value>
   </string>
   <string key="RoleInfoGunner">
     <value>Sanak adolah Gunner Si Penembak 🔫. Sanak hanyo punyo duo paluru perak nan bisa Sanak tembak di siang hari.
-	piliah nan ka Sanak tembak elok-elok, karano sado urang beko mandanga suaro tembakan sanak. (tamasuak serigala)</value>
+	piliah nan ka sanak tembak elok-elok, karano sado urang beko mandanga suaro tembakan sanak (tamasuak serigala).</value>
   </string>
   <string key="RoleInfoHarlot">
-    <value>💋 Sanak tu Harlot nan bisa masuak ka rumah pamain lainnyo tanpa inyo tahu Siapo Sanak pado malam hari.
-      Tapi katiko Sanak masuak ka rumah serigala atau rumah nan sadang diserang dek serigala, Sanak akan mati. Serigala Indak akan bisa mamakan sanak kok inyo menyerang rumah sanak, dek Sanak sadang andehoi di rumah urang. :))
+    <value>💋 Sanak tu Harlot nan bisa masuak ka rumah pamain lainnyo tanpa inyo tahu siapo sanak pado malam hari.
+      Tapi katiko sanak masuak ka rumah serigala atau rumah nan sadang diserang dek serigala, sanak akan mati. Serigala Indak akan bisa mamakan sanak kok inyo menyerang rumah sanak, dek Sanak sadang andehoi di rumah urang. :))
       Kadang beko sanak basuo jo kejanggalan dirumah urang lain.</value>
   </string>
   <string key="RoleInfoTraitor">
-    <value>Traitor! 🖕 Sanak tu seorang pengkhianat nan manjadi Serigala jika sado serigala alah mati. Seorang penerawang (Seer) kadang mancaliak sanak sabagai serigala walaupun Sanak masih bawujuik Masyarakaik Biaso.</value>
+    <value>Traitor! 🖕 Sanak tu seorang pengkhianat nan manjadi Serigala jika sado serigala alah mati. Seorang Dukun (Seer) kadang mancaliak sanak sabagai serigala walaupun Sanak masih bawujuik Masyarakaik Biaso.</value>
   </string>
   <string key="RoleInfoWolf">
-    <value>Sanak jadi Serigala! 🐺. salamaik basanang-sanang mamakan korban sanak.</value>
+    <value>Sanak jadi Serigala! 🐺. Salamaik basanang-sanang mamakan mayarakaik, sanak!</value>
   </string>
   <string key="RoleInfoSeer" >
-    <value >Sanak jadi Penerawang (Seer) 👳. Sanak bisa tau jo peran pamain pilihan sanak hanyo jo aia putiah campua garam sajo.</value>
+    <value >Sanak jadi Dukun (Seer) 👳. Sanak bisa tau jo peran pamain pilihan sanak hanyo jo aia putiah campua garam sajo.</value>
   </string>
   <string key="RoleInfoVillager" >
     <value >Sanak jadi Masyarakaik Biaso biaso 👱, Siso iduik sanak hanyo manjadi korban fitnah jo santapan serigala. Tarimo se lah yo :(</value>
     <value>CTN! sanak Masbi (Masyarakaik Biaso) 😂. Jan patah samangaik sanak, bae se pura-pura ke-CTN-an 👍 </value>
   </string>
   <string key="RoleInfoTanner" >
-    <value >Sanak tu Tanner Si Pembuat Onar 👺, kok Masyarakaik Biaso beko menggantung sanak, Sanak manang!</value>
+    <value >Sanak tu Tanner Si Pambuek Kacau 👺. Lok masyarakaik mamiliah untuak menggantung sanak, sanak manang!</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >Sanak tu Wild Child 👶, Remaja Labil nan paralu seorang Induak Samang iduik. Kok Induak Samang sanak mati, Sanak manjadi serigala.</value>
+    <value >Sanak tu Wild Child 👶. Sanak bisa mamiliah surang urang nan kalau mati sanak barubah manjadi serigala.</value>
   </string>
   <string key="RoleInfoBeholder" >
-    <value >Sanak tu Beholder 👁, hanyo Sanak nan tau Siapo penerawang (Seer) nan asli .</value>
+    <value >Sanak tu Beholder 👁, hanyo Sanak nan tau Siapo Dukun (Seer) nan asli .</value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
     <value >Sanak tu Murid Penerawang (Apprentice) 🙇. Kok Penerawang nan asli mati, Sanak batugas manggantikannyo.</value>
@@ -223,177 +210,77 @@
     <value>🌥 Hari lah sanjo, masyarakaik alah balain-lain se karajo ko. Ado nan ma flood lah, ado nan mintak dibaka, ado pulo nan ke-CTN-an!. {0} datiak oke?</value>
   </string>
   <string key="DayTime" >
-    <value >☀️ Hari lah siang.
-	Matahari tapek di ateh kapalo. masyarakaik punyo {0} datiak untuak manuduah / mambela diri / ngambok dek kanai tuduah..
-	Pokoknyo damai, samuik pun indak ado manggigik. Asek!</value>
-  <value>☀️ Hari siang, dunsanak punyo wakatu {0} datiak. Manfaatkanlah wakatu sebaik mungkin untuak mamodus, tebar pesona, de el el sumbarang sanak nio manga.</value>
-    <value >☀️ Hari lah siang.
-	Matohari angek bana taraso. masyarakaik punyo {0} datiak untuak bamufakaik / basiua-siua dak jaleh  / mangaku iko itu lah..
-	Pokoknyo damai yo damai!</value>
-  <value >☀️ Hari lah siang.
-Blablablablablablabla alah panek ambo jadi moderator rasoe sanak 😫😫, sumbarang sanaklah nio manga asa indak malanggar rules. Sanak punyo wakatu {0} datiak.</value>
-  <value>☀️ Hari lah siang 🙌
-  Uhuy! Mudah-mudahan CTN indak ado bakaliaran. Eh btw, ba a ko banyak bana CTN kini ko? 🤔 CTN everywhere 😒. {0} datiak siang e sikonyo.</value>
+    <value >☀️ Matohari alah naiak. Dek nagari samakin indak aman, masyarakaik punyo wakatu {0} datiak untuak bamufakaik sia nan ka dibaka.</value>
   </string>
   <string key="NightTime" >
-    <value >🌙 Malam alah tibo, nagari samakin langang.
-	Ado nan alah lalok dek latiah, ado lo nan galau sambia mandanga lagu Rindu di Awan Biru.
-	pamain malam hari: kalian punyo {0} datiak untuak menjalankan aksi kalian!</value>
-	<value >Patah bacintooo itu biasoo...♫♫ Eh..
-  🌙 Malam alah tibo,
-	Ado nan alah lalok dek latiah, ado lo nan mulai basiap beraksi.
-	pamain malam hari: kalian punyo {0} datiak untuak menjalankan aksi kalian!</value>
-  <value >🌙 Malam lah tibo,
-	Tukang Bubur Naik Haji alah tamat, induak-induak nan biaso nonton kini alah sato lo main koa jo apak-apak. Jam 12 malam masyarakaik alah lalok, nan nio beraksi malam ko punyo wakatu {0} datiak</value>
-  <value >🌙 Malam lah tibo,
-  Sanak alah tau kan nio manga? Panek wak ngetik panjang-panjang sanak 😄. Sanak punyo wakatu {0} datiak.</value>
-  <value>🌙 Hari lah malam,
-  CTN-CTN pun mulai beraksi dan bakaliaran 😁. Ingek, cuma {0} datiaknyo CTN!
-JAN
-LUPO
-DOA
-SABALUN
-LALOK 😌</value>
-<value >🌙 Malam lah tibo,
-🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔. Sanak punyo wakatu {0} datiak.</value>
+    <value >🌙 Malam alah tibo. Sanak punyo wakatu {0} datiak untuak manjalankan tugas sanak.</value>
   </string>
   <string key="LynchKill" >
-    <value >🔥 Bulek aia kapambuluah, bulek kato jo mufakaik.
-	  {0} tewas dibaka. {1}</value>
-  <value >🔥 Kahilia jalan ka Sumani, sasimpang jalan ka Singkarak. Saukua mangko manjadi, sasuai mangko takanak.
-	  {0} dicampak an ka tangah danau Singkarak, mati dimakan lauak bilih. {1}</value>
-  <value >🔥 Masyarakaik maambiak kaputusan bulek.
-	  {0} dicabuik bulu katiaknyo sampai tewas. {1}</value>
-  <value >🔥 Masyarakaik maambiak kaputusan bulek.
-	  {0} dikebiri, dak lamo sudah tu mati. {1}</value>
-  <value >🔥 Elok diambiak jo etongan, buruak dibuang jo mufakaik.
-	  {0} dibuang ka lubang tambang mbah Suro. {1}</value>
-  <value >🔥 Alah bakarih samparono, bingkisan rajo Majopahik, tuah basabab bakarano, pandai batenggang dinan rumik.
-    Masyarakaik maambiak kaputusan bulek.
-	  {0} jo ibo ati tapaso dirajam. {1}</value>
-  <value >🔥 Masyarakaik maambiak kaputusan bulek.
-	  {0} dipaso makan cik ayam angek, akhirnyo mati. {1}</value>
-  <value >🔥 Baiyo mangko bakato, batolan mangko bajalan.
-	  Alah diambiak kato mufakaik {0} dirajam sampai tewas. {1}</value>
-  <value >🔥 Alun bakilek lah bakalam, bulan lah langkok tigo puluah, alun takilek lah tapaham, raso lah tibo dalam tubuah.
-    Masyarakaik maambiak kaputusan bulek.
-	  {0} disuruah cari kutu urang utan di kabun binatang Bukiktinggi {1}</value>
-  <value >🔥 Bulek baru digolekan, picak baru dilayangkan.
-	  Batu gadang digolekan ka badan {0} sampai picak, sudah tu dilayangkan ka narako . {1}</value>
-  <value >🔥 Aia janiah sayaknyo landai, ikan jinak sulik dicakau.
-    Masyarakaik maambiak kaputusan bulek.
-	  {0} disuruah barasiahan kandang ayam. {1}</value>
+    <value >🔥 Masyarakaik mamiliah untuak mambaka {0}. {1}</value>
   </string>
   <string key="LynchTie" >
-    <value >Alang tukang binaso kayu, alang cadiak binaso adaik, alang alim rusak ugamo, alang pandai rusak nagari.
-    Dek ulah pamimpin nan indak tagok, masyarakaik gagal maambiak kaputusan. Huft!</value>
-	<value >Bajalan bagageh-gageh, kacondoang mato yang banyak, pucuak bulek kalau tarageh alamaik tareh kan tahannyak.
-    Alah barundiang, tapi bantuaknyo pamimpin nan kurang bijak. Masyarakaik baliak ka rumah jo raso cameh masih inggok dalam hati.</value>
-  </string>
+    <value >Dek suaro masyarakaik indak kompak, indak ado nan dibaka do. Amatir!</value>
+	</string>
   <string key="NoLynchVotes" >
-    <value >Mancurigakan, indak ado nan mamiliah untuak digantuang malam ko do. Hem 🤔</value>
+    <value >Ndak ado masyarakaik nan barani basuaro do 🤔</value>
   </string>
   <string key="DetectiveEaten" >
-    <value >🌤 Masyarakaik bakumpua di pagi hari dan indak mancaliak keberadaan {0}.
-	Inyo pai ka rumah {0} dan mancaliak badan lah cabiak-cabiak, kaco panggadang pacah, dan lencana detektif saparoh kalua di tenggorokannyo. Detektif alah mati 🕵.</value>
+    <value >🌤 {0} Si Detektif🕵 alah dulu dimakan dek Serigala🐺.</value>
   </string>
   <string key="GuardianEaten" >
-    <value >🌤 Pagi alah tibo, Indak pacayo jo apo nan dicaliaknyo. Sapasang sayok putiah tajuntai di ateh batang jariang.
-	Tubuah {0} tatilantang, inyo seorang Guardian Angel 👼.</value>
-	<value >🌤 Pagi alah tibo, Sapasang sayok putiah takambang di tonggak bendera muko balai nagari.
-	Tubuah {0} tatilantang, inyo seorang Guardian Angel 👼.</value>
+    <value >🌤 Pagi alah tibo. {0} adolah Guardian Angel 👼, alah tewas dimakan dek Serigala🐺.</value>
   </string>
   <string key="GunnerEaten" >
-    <value >🌤 Masyarakaik dikajuik an dek basuo jo potongan dari senapan.. Jo bercak darah segar ka arah sabuah gang sampik. Kironyo ditamukan tubuah takapar, baserak bakeh gigik serigala.
-	{0} alah mati, kalian kahilangan seorang Gunner 🔫.</value>
+    <value >🌤 Si Gunner 🔫, {0} alah dulu dimakan dek Serigala🐺.</value>
   </string>
   <string key="SeerEaten" >
-    <value >🌤 Pagi alah tibo, baun kumanyan pakek bana baunyo dari sabuah rumah punyo {0}.
-	Takapar di ateh buku mantera, sang penerawang (Seer) 👳 alah mati.</value>
+    <value >🌤 Pagi alah tibo. Kaba duko mambuek masyarakaik takajuik. Si Dukun (Seer) 👳, {0} alah dulu dimakan dek Serigala🐺.</value>
   </string>
   <string key="DrunkEaten" >
-    <value >🌤 Mabuak dikutuak dek adaik jo agamo, dek mabuak manguasai badan, {0} indak sadar dimakan SERIGALA inyo Drunk Si Pamabuak 🍻.</value>
-	<value >🌤 Kok dikampuang ka bajalan hilia mudiak, rancak lah tuan pai marantau. Dirantau urang kok lai elok untuang dibadan, dikampuang dimakan SERIGALA.
-    {0} basobok indak banyao ditapi jalan jo boto-boto aia kareh, {0} adolah Drunk Si Pamabuak 🍻.</value>
+    <value >🌤 {0} adolah Si Pamabuak 🍻, alah tewas dimakan dek Serigala🐺. Malam ko Serigala indak bisa kama-kama.</value>
   </string>
   <string key="FoolEaten" >
-    <value >🌤 Pagi alah tibo, baun kumanyan kareh bana dari sabuah rumah punyo【{0}】.
-	 Takulai di ateh kartu koa, masyarakaik mancaliak FOOL alah mati 🃏.</value>
+    <value >🌤 Fool 🃏 nan acok mangaku-ngaku jadi Dukun akhirnyo dimakan dek Serigala🐺. Urangnyo adolah {0}.</value>
   </string>
   <string key="DefaultEaten" >
-    <value>🌤 Matohari alah mancigok dari timur. Kato bapak kato panggaja, kato kalipah dari mamak, mujua indak dapek kito kaja, malang tak dapek kito tulak.
-	{0} basobok indak banyao, KRIYUK KRIYUK!
-	{1}</value>
-	<value>🌤 Pagi ko masyarakaik dikajuik an dek ado urang mamakiak!
-  Kok ka buliah jan harok bana, kok ka hilangan jan cameh bana.
-	{0} tewas, masyarakaik sadiah 😭, KRIYUK KRIYUK!
-   {1}</value>
-	<value>🌤 Pagi alah tibo, masyarakaik mancaliak karumah {0} nan ampiah runtuah.
-	{0} alah dimakan 😟, KRIYUK KRIYUK!
-	{1}</value>
-	<value>🌤 Ndeh, dak talok mancaliak e do!!
-	{0} buruak bana! hehehe 😂✌️
-	di rumah {0} tasiso tarompa japang nyo se lai, KRIYUK KRIYUK!
-	{1}</value>
-	<value>🌤 Pagi ko mambuek masyarakaik sadiah 😢
-	{0} alah dulu se. KRIYUK KRIYUK!
-	{1}</value>
-	<value>🌤 Pagi bakain hitam 😢
-	Nagari langang kalau dak ado {0}. {0} dimakan dek serigala. KRIYUK KRIYUK!
-	{1}</value>
-	<value>🌤 Indak ado angin dak ado hujan.
-	malang indakdisangko, {0} alah bapulang. KRIYUK KRIYUK!
-	{1}</value>
+    <value>🌤 Alah pagi. {0} mati dimakan dek Serigala🐺.	{1}.</value>
   </string>
   <string key="HunterKilledCultist">
-    <value>Apo nan tajadi dirumah {0}?
-	  indak disangko salamo iko {0} adolah urang bunian. Urang Bunian 👤 mati.</value>
-	<value>Ado nan mancurigakan di rumah {0}
-	 iko ciek lai nan maresahkan masyarakaik, elok-elok jan sampai masuak rombongan urang bunian . {0}, Urang Bunian 👤 mati.</value>
-  </string>
-  <string key="NoAttack" >
-    <value >🌤 Salamaik pagi Minangkabau ♫♫ . Pagi alah tibo, sadonyo bernafas lega, Indak ado nan diserang samalam tadi.</value>
-	<value >🌤 Pagi alah tibo, Indak ado nan diserang samalam tadi, namun masyarakaik saliang mancaliak curiga.</value>
+    <value>Si Pamburu Urang Bunian 💂 alah manjalankan tugasnyo dengan elok. {0} Si Urang Bunian 👤 mati.</value>
+  <string key="NoAttack">
   <value >🌤 Pagi alah tibo, indak ado nan jadi korban pagi ko do. Hmm.. 🤔</value>
   </string>
-  <string key="CursedBitten" >
+  <string key="CursedBitten">
     <value >Sanak tagigik dek serigala, kiro e dak mati do, malah jadi serigala lo. Salamaik bagabuang!</value>
   </string>
   <string key="WolfTeam">
-    <value>Tim Serigala sanak adolah: {0}</value>
+    <value>Konco Serigala sanak adolah: {0}</value>
   </string>
   <string key="CursedBittenToWolves" >
-    <value >{0} alah kalian gigik, ternyata inyo seorang Cursed dan manjadi Serigala! Salamaik, jumlah kalian batambah banyak.</value>
+    <value >{0} alah kalian gigik, ruponyo inyo Cursed 😾 dan manjadi Serigala! Batambah konco sanak ciek.</value>
   </string>
   <string key="WolvesEatYou" >
-    <value >ONDEH MANDE!! 🐺 Serigala alah mamakan sanak. KRIYUK KRIYUK 😯</value>
-	<value >Sanak mancubo manalepon polisi!
-	Kiro e polisi lalok nan ditalepon. 🐺 Serigala alah mamakan sanak. KRIYUK KRIYUK 😯</value>
-	<value >Sanak balari manyalamaikan diri, sempat maagiah parlawanan jo jurus silek harimau, namun Sanak kalah. 🐺 Serigala mamakan sanak. NOMNOMNOMNOM (ᗒᗣᗕ)՞</value>
-	<value >Sanak panek bana dan Indak sadar ado nan masuak ka dalam biliak sanak, 🐺 Serigala alah mamakan sanak. KRIYUK KRIYUK</value>
-	<value >Sapasang mato manyalo di baliak tingkok, Sanak mancubo maandok di baliak kasua tapi basobok juo. 🐺 Serigala mamakan sanak. NOMNOMNOMNOM</value>
-  </string>
+    <value >ONDEH MANDE!! 🐺 Serigala alah mamakan sanak! Dak dapek dikato lai.</value>
+    <value >ONDEH MANDE!! 🐺 Serigala alah mamakan sanak! Dak dapek diaka lai.</value>
+	</string>
   <string key="WolvesEatDrunk" >
-    <value >Eee CTN!! Kiro e {0} adolah Pamabuak!! 🍻 Sanak barusaho baliak ka rumah liak tapi takulai, bantuaknyo Sanak harus istirahat bisuak malam.
-	😞</value>
+    <value >{0} adolah Pamabuak 🍻. Bisuak malam sanak indak bisa makan urang dulu dek sato lo mabuak.😞</value>
   </string>
   <string key="GuardWolf" >
-    <value >Sanak mamiliah untuak malindungi serigala, Sanak mati. iduik ko dak samanih nan Sanak kiro. Masyarakaik mambuek patuang di muko balai nagari untuak mengingek jaso sanak ☠.</value>
+    <value >Sanak mamiliah untuak malindungi serigala. Sanak pun tewas sakatiko ☠.</value>
   </string>
   <string key="GuardSaved" >
-    <value >Sanak alah berhasil malindungi {0} dari serangan kejahatan!
+    <value >Hebat sanak! Alah malinduangi {0} dari serangan kejahatan!
 	😎</value>
   </string>
   <string key="GuardNoAttack" >
-    <value >{0} lai ndak di serang malam ko do, Sanak buliah lalok lamak malam ko 💤.</value>
-	<value >{0} indak diserang Serigala kiro nyo, Sanak baliak pulang ka rumah liak 💤.</value>
+    <value >{0} lai ndak di serang malam ko do. Sanak buliah lalok lamak malam ko 💤.</value>
   </string>
   <string key="GuardEmptyHouse">
-    <value>Sanak pai ka rumah {0}, tanyato inyo indak di rumah!</value>
+    <value>Sanak pai ka rumah {0}, ruponyo inyo indak di rumah!</value>
   </string>
   <string key="GuardSavedYou" >
-    <value >Guardian Angel 👼 melindungi sanak tadi malam, juruih-juruih pamungkeh manjua mengusia paja tu pai!
-	😎</value>
+    <value >Guardian Angel 👼 alah malinduangi sanak tadi malam!</value>
   </string>
   <string key="HarlotEaten" >
     <value >💋 Harlot talampau latiah untuak ka rumah urang tadi malam, mako nyo serigala nan bakunjuang ka rumahnyo.
@@ -403,24 +290,19 @@ LALOK 😌</value>
     <value >Aneh bana, rumah {0} tanyato kosong malompong! Ndak jadi makan dek nyo 😞</value>
   </string>
   <string key="HarlotFuckWolf" >
-    <value >Sanak pai ka rumah {0} untuak andehoi lamak 👄, tapi Sanak salah mamiliah korban. Sanak mati dimakan dek si tuan rumah ☠. TOBAT MAKSIAT!! 🔞</value>
+    <value >Sanak pai ka rumah {0} untuak andehoi lamak 👄, tapi sanak salah mamiliah korban. Sanak mati dimakan dek Serigala🐺.</value>
   </string>
   <string key="HarlotFuckedWolfPublic" >
-    <value >{0} salah masuak rumah!! Bukannyo dapek lamak, malah kanai ceramah. {0} akhirnyo tobat dak lamo sudah tu mati. </value>
-    <value >"Bak manungkuih tulang didaun taleh, bak manyuruakan durian masak". Masyarakaik bagunjiang di muko mayaik {0} nan salah masuak rumah! Tobat lah sebelum salah masuak rumah 🔞</value>
+    <value >{0} 💋 masuak rumah Serigala. {0} pun tewas!</value>
   </string>
   <string key="HarlotFuckedVictimPublic" >
-    <value >{0} manyalinok ka rumah {1} untuak andehoi lamak 👄. dek lah kalamakan, eh kironyo {1} lah dimakan dek Serigala! {0} baliak haluan nio lari, kiro e serigala mancogok di muko nyo....
-	  {0} mati langsuang...maibo...</value>
+    <value >{0} 💋 nio lamak-lamak ka rumah {1}. Ruponyo di rumah {1} sadang ado baacakak gadang. {0} tewas di sinan.</value>
   </string>
   <string key="HarlotVisitNonWolf" >
-    <value >Sanak pai ka rumah {0} dan tanyato inyo indak Serigala, Babarapo ronde andehoi lamak dihabihan samalam suntuak. 💕 Bilo tobat??</value>
-	<value >Baansua-ansua Sanak masuak ka biliak {0} dan inyo indak Serigala do, Lamak-lamak kalian samalam ko yo ??. Tobat lah lai ckckck 💕</value>
-	<value >Diansua-ansua Sanak maikek tangan {0} tu menutuik matonyo jo kain, kalian langsuang samo-samo maraso lamak-lamakan samalam suntuak. 💕 Untuang dak digrebek SATPOLPP 😁</value>
-  </string>
+    <value >Sanak alah main lamak-lamak di rumah {0}. Ba a? Lai sero? 💋</value>
+	</string>
   <string key="HarlotVisitYou" >
-    <value >Ado nan maagiah serpis lamak tadi malam. Cie cie lamak tuu 💕💕💕. Jan lupo mandi wajib :D</value>
-  	<value >Sanak tajago indak bakain. Hah??? Apo nan tajadi samalam ko? ba a dek sero-sero asiang lo? hehehe 💕💕💕 </value>
+    <value >Sanak alah diagiah serpis lamak tadi malam 💋</value>
     </string>
     <string key="DetectiveCaught" >
       <value >Kalian maraso dicigok-cigok! mato sanak maliek {0} mangikuikkan kalian. Inyo detektif! 🕵 </value>
@@ -430,29 +312,23 @@ LALOK 😌</value>
     </string>
     <string key="HarlotShot" >
       <value >Bantuak ditolak untuak dipacari, {0} dandam ka harlot! 💋
-  	  DOR!! {1}maningga sambia kayang di karumunan masyarakaik.</value>
+  	  DOR!! {1} maningga sambia kayang di karumunan masyarakaik.</value>
     </string>
     <string key="DefaultShot" >
-      <value >DOR!! 💥 Masyarakaik mancaliak {0} 🔫 tagak di sabalah jasaik {1} nan tagalatak ndak barangok, tapi masih manggaletong, muncuang senapan masih barasok putiah dihambuih dek panembak co koboi.
-  	{2}.</value>
   	<value >DOR!! 💥🔫 {0} mamareso jasaik {1} nan tagalatak ndak barangok, masyarakaik maliek se, Indak ado nan talok mandakek.
   	{2}.</value>
     </string>
     <string key="WolfWins" >
-      <value >SERIGALA alah MANANG!
-  	AUUUUUUUUU!!! 🐺</value>
+      <value >SERIGALA MANANG! 🐺</value>
     </string>
     <string key="WolvesWin" >
-      <value >SERIGALA JO KONCO-KONCONYO MANANG!!! 🐺🐺</value>
+      <value >SERIGALA JO KONCO-KONCONYO MANANG! 🐺🐺</value>
     </string>
     <string key="VillageWins" >
-      <value >👱 MASYARAKAIK MANANG! 🕺💃🕺💃🕺💃</value>
+      <value >MASYARAKAIK MANANG! 👱</value>
     </string>
-    <string key="TannerWins" >
-      <value >KALEROS PROTEKTOS DOMESTOS NOMOS 👹😡🤣
-        TANNER MANANG! 👺.</value>
-    <value >CIKICIKIBUM! Muehehehehe 🤣🤣🤣
-      TANNER MANANG! 👺.</value>
+    <string key="TannerWins">
+    <value> TANNER MANANG! 👺</value>
     </string>
     <string key="RemainingPlayersEnd">
       <value>Pamain yang tasiso, Peran, samo Team:</value>
@@ -480,13 +356,10 @@ LALOK 😌</value>
       <value>{0} mambaok martabak coklat kacang ka rumah {1}. Lah ditokok pintu rumahnyo 3 kali, ndak ado yang kalua. Sanak mamiliah untuak maninggaan martabak tu di muko pintu.</value>
     </string>
     <string key="CultWins" >
-      <value >WUIWUIWUIWUIU!! 👤
-  	Sado serigala alah mati, masyarakaik nan tasiso alah manjadi rombongan Urang Bunian!
-  	URANG BUNIAN MANANG!
-  	WUIWUWIUWIWUI.. #wuiwui</value>
+      <value >URANG BUNIAN (Cultist) MANANG! 👤</value>
     </string>
     <string key="HunterVisitDead">
-      <value>💂 Sanak pai ka rumah {0}, tapi nyo lah mati se, ndak masuak gaya e do.</value>
+      <value>💂 Sanak pai ka rumah {0}, tapi nyo lah mati se. Ndak masuak gaya e do.</value>
     </string>
     <string key="HunterFindCultist">
       <value>💂 Sanak pai ka rumah {0}, tadanga suaro BIDIP WUIWUIU!! 🐚 Sanak malempa aia kareh (aia lado + kajamban + talua busuak + dll) ka inyo, Cultist Urang Bunian mati surang. 👤</value>
@@ -504,16 +377,16 @@ LALOK 😌</value>
       <value>Masyarakaik Biaso 👱</value>
     </string>
     <string key="Drunk">
-      <value>Pamabuak 🍻</value>
+      <value>Pamabuak (Drunk) 🍻</value>
     </string>
     <string key="Harlot">
       <value>Harlot 💋</value>
     </string>
     <string key="Seer">
-      <value>Dukun 👳</value>
+      <value>Dukun (Seer) 👳</value>
     </string>
     <string key="Traitor">
-      <value>Pangkianaik 🖕</value>
+      <value>Pangkhianaik (Traitor) 🖕</value>
     </string>
     <string key="GuardianAngel">
       <value>Guardian Angel 👼</value>
@@ -525,31 +398,31 @@ LALOK 😌</value>
       <value>Serigala 🐺</value>
     </string>
     <string key="Cursed">
-      <value>Takutuak 😾</value>
+      <value>Takutuak (Cursed) 😾</value>
     </string>
     <string key="Gunner">
-      <value>Panembak 🔫</value>
+      <value>Panembak (Gunner) 🔫</value>
     </string>
     <string key="Tanner">
-      <value>Parusuah 👺</value>
+      <value>Parusuah (Tanner) 👺</value>
     </string>
     <string key="Fool">
       <value>Fool 🃏</value>
     </string>
     <string key="WildChild">
-      <value>Paja Labil 👶</value>
+      <value>Paja Labil (Wild Child) 👶</value>
     </string>
     <string key="Beholder">
-      <value>Beholder 👁</value>
+      <value>Beha 👁</value>
     </string>
     <string key="ApprenticeSeer">
       <value>Murik Dukun 🙇</value>
     </string>
     <string key="Cultist">
-      <value>Cultist 👤</value>
+      <value>Urang Bunian (Cultist) 👤</value>
     </string>
     <string key="CultistHunter">
-      <value>Cultist Hunter 💂</value>
+      <value>Pamburu Urang Bunian (CH) 💂</value>
     </string>
     <!-- These are for the player list -->
     <string key="RanAway">
@@ -572,16 +445,14 @@ LALOK 😌</value>
       <value>Sanak tu Mason, 👷 Masyarakaik Biaso nan ndak punyo kekuatan apo-apo salain tau jo konco-konco mason sanak, bapandai-pandai la sanak lai.</value>
     </string>
     <string key="MasonEaten">
-      <value>🌤 Hari lah pagi, masyarakaik basobok jo mayaik di tong sarok panuah darah bacampua kua bakso jo muntah kuciang. Konco mason sanak mati surang! -- {0}</value>
-      <value>{0} Hmm {0} matey dimakan serigala. Yah, mason tewas semudah itu, Ferguso! 😒</value>
-      <value>{0} mancubo kabur dari serangan sarigala. Dek panik talantaklah TIANG LISTRIK, kapalo {0} bangkak sagadang BAKPAO dan akhirnyo mati ditampek!</value>
+      <value>🌤 Hari lah pagi. {0}, Mason 👷 tewas dimakan dek Serigala🐺.</value>
     </string>
     <string key="MasonTeam">
       <value>  Kelompok mason : {0}</value>
     </string>
     <string key="CultTargetDead">
       <value>Anggota baru sanak pai ka rumah {0} mambaok martabak untuak maumbuak,
-        Tapi rumahnyo cayia, darah baserak, dindiangnyo banyak bakeh gauwik. Bantuaknyo {0} alah dimakan Srigala.</value>
+        Tapi rumahnyo cayia, darah baserak, dindiangnyo banyak bakeh gauwik. Bantuaknyo {0} alah dimakan dek Serigala.</value>
     </string>
     <string key="GuardBlockedWolf">
       <value>Serigala jo konconyo pai ka rumah {0} ka mangamuak, kironyo tacaliak dek nyo dosen PA nyo dirumah paja tu, suruik mental kalian dek nyo.
@@ -602,16 +473,13 @@ LALOK 😌</value>
       <value> adolah </value>
     </string>
     <string key="GenericDeathNoReveal">
-      <value>Pagi alah tibo,{0} alun ado tando tangan absen. masyarakaik ka rumah {0}, tasobok {0} mati ndk babantuak, salemonyo bapetai.</value>
       <value>Pagi lah tibo, masyarakaik takajuik mancaliak jasad {0} di tangah jalan, pose nyo ndak lo rancak do.</value>
-  	<value>masyarakaik mamakiak, inyo mancaliak {0} di bawah patuang dak bakapalo.</value>
     </string>
     <string key="MasonConverted">
-      <value>Ado nan ganjia... {0} absen pagi ko, inyo lai ndak la....</value>
-      <value>{0} mintak TA-an ka sanak pagi ko. Hmm ba dak hadirnyo yo? lai ndak lah masuak aliran sasek lo nyo koo</value>
+      <value>Ado nan ganjia... {0} absen pagi ko, inyo lai ndak la.... Hmmm 🤔</value>
     </string>
     <string key="FleeDisabled">
-      <value>Kalau ka kabur manga ndak sabalun mulai main se tadi sanak? Huh, kalau tadasak bana hubungan se admin untuak smite sanak.</value>
+      <value>Indak bisa kabur do sanak! Mo'o lu nye. Hehe</value>
     </string>
     <string key="IsDead">
       <value>tewas</value>
@@ -620,7 +488,7 @@ LALOK 😌</value>
       <value>{0} ditambahkan di daftar admin. Ketik /config untuak maubah Grup Setting.</value>
     </string>
     <string key="AlreadyInGame">
-      <value>Sanak alah bagabuang di pamainan ko! ({0})</value>
+      <value>Sanak alah bagabuang di {0}</value>
     </string>
     <string key="MultipleGames">
       <value>Grup ko punyo labiah dari 1 pamainan, ka kami anulir salah satunyo.</value>
@@ -686,7 +554,7 @@ LALOK 😌</value>
       <value>Sanak adolah Serial Killer 🔪, pambunuah berantai nan lari dari Gaduik. Sanak tu psikpat berkompeten, sanang bana mancaliak korban sanak tatindeh jo taseso. Hobi sanak manguliti, maliang banak, koleksi talingo, iduang, samo bibia, manjua jantuang jo organ-organ lainnyo.</value>
     </string>
     <string key="HunterLynchedChoice">
-      <value>Masyarakaik mamiliah untuak manggantuang Sanak! Jaek nak ? Ikolah kesempatan terakhir untuak mamiliah Siapo nan ka Sanak baok mangawanan sanak ka akhirat!</value>
+      <value>Masyarakaik mamiliah untuak manggantuang Sanak! Jaek nak? Ikolah kesempatan terakhir untuak mamiliah siapo nan ka sanak baok mangawanan sanak ka akhirat!</value>
     </string>
     <string key="HunterNoChoiceLynched">
       <value>(30 minik Sabalunnyo)
@@ -718,16 +586,10 @@ LALOK 😌</value>
   	{0} mamacik dadonyo nan panuah darah, sudah tu jatuah ka tanah.... Di datiak-datiak terakhir angok e, nyo senyum sambia manembak {1}. {2}</value>
     </string>
     <string key="HunterShotWolfMulti">
-      <value>Kawanan Serigala mamburu Hunter 🎯, tapi nyo sempat menembak ka salah satu Serigala 🐺 {0} langsuang mati!
-      🤔🤔🤔🤔🤔🤔
-    😎😎😎😎😎😎</value>
+      <value>Kawanan Serigala mamburu Hunter 🎯, tapi nyo sempat menembak ka salah satu Serigala 🐺 {0} langsuang mati! Serigala amatir! CK!</value>
     </string>
     <string key="HunterShotWolf">
-      <value>Serigala manyerang Hunter samalam, tapi nyo sempat manembak 🐺{0}
-      MT
-    J
-  L {0} 😌</value>
-      <value>Tadanga suaro ribuik samalam, suaro Serigala mamakiak bantuak bencong jo suaro badia mangakhiri 🐺{0}!</value>
+      <value>Serigala manyerang Hunter samalam, tapi nyo sempat manembak 🐺{0}. Ba a kok amatir bana sanak {0}?</value>
     </string>
     <string key="SerialKillerKilledWolf">
       <value>🐺 Serigala ka makan urang, kiro e urang tu alah manunggu dimuko pintu mamacik sinso!! {0} ndak takaja melarikan diri, bulunyo dicabuik, talingonyo dipotong, ususnyo diambiak, jantuangnyo dirameh Serial Killer 🔪!</value>
@@ -737,7 +599,7 @@ LALOK 😌</value>
   	masyarakaik mancaliak {0} tatilantang, puluhan pisau tatanam di badannyo, kapalonyo pacah lo ! Ado nan mancilok banaknyo samalam!
   	Serial Killer marabo!! 🔪
   	{1}</value>
-  	<value>Apo nan tajadi di rumah {0} tu??
+  	<value>Apo nan tajadi di rumah {0} tu?
   	indak disangko-sangko {0} alah takulai dak badayo. Ulu ladiang tocogek di talingo inyo!!
   	Serial Killer Manjadi-jadi!! 🔪
   	{1}</value>
@@ -801,9 +663,7 @@ LALOK 😌</value>
       <value>Siapo nan nio Sanak bantai malam ko?</value>
     </string>
     <string key="LoverDied">
-      <value>{0} mati letoy di bahu {1}. Dak tahanyo manjomblo lai, nyo minum baygon raso tiga roda untuak bunuauh diri..💔  Cinto suci hanyo mimpi ♫♫  {2}</value>
-  	<value>{0} mati dipangkuan {1}. Aia manitiak di pipinyo, hari ujan ditembak dek patuih.💔 Katiko cinto musti mangalah ♫♫ {2}</value>
-  	<value>{0} mati takulai di paho {1}. Karena keceknya dia tidak bisa hidup tanpa dia doh .💔 Ituu booohooong.. itu palsu ♫♫ {2}</value>
+  	<value>{0} mati dipangkuan {1}. Aia manitiak di pipinyo, yo sadiah 💔. {2}</value>
     </string>
     <string key="AskDoppelganger">
       <value>Kok inyo mati, Sanak barubah jadi inyo , Sia nan ka sanak piliah?</value>
@@ -827,32 +687,22 @@ LALOK 😌</value>
       <value>Doppelgänger 🎭</value>
     </string>
     <string key="CupidChosen">
-      <value>Ku kijok dirimu, dikau namuah saja~ ❤♫♫
-    Dado sanak baguncang tiok mancaliak {0} di jalan, malam langang inyo se nan takana. Pas makan tabayang mungkonyo dipiriang, sadang macik sabun pas mandi inyo juo nan takana . Bajuanglah basamo sampai akhir! Kok Sanak mati, {0} frustasi. Nyo ndk talok iduik kalau ndk ado sanak do, nyo minum la baygon untuk basobok Sanak di alam salanjuiknyo. Bantuak itu lo kalau inyo mati.</value>
-  	<value>Kumbang indak saikuah, bungo indak satangkai~ ♫♫ ❤️❤️
-  	Sanak LAH NDAK JOMBLO LAI!! Pasangan sanak {0}!  Tapi kalau pasangan sanak mati, Sanak mati lo, Romantis bana! Kalau kalian baduo bisa iduik sampai akhir, kalian manang. .</value>
-      <value>Cando maharokkan bintang.. jatuah ditalapak tangan ♫♫. Eits! Ko {0}, pasangan nan sanak cari-cari salamo ko. Kok dapek yo tagok kalian baduo, jan sampai jomblo liak! </value>
+      <value>💘 Salamaik sanak! Sanak punyo pasangan {0}. Kok dapek yo langgeng ndak nyo.</value>
     </string>
     <string key="NewWCRoleModel">
       <value>Sanak alah manjadi Wild Child 👶.  role model sanak tu {0}</value>
     </string>
     <string key="LoversWin">
-      <value>🎉 Cinto Sajati batahan toruh!
-  	Sapasang pole alah Manang! #CintoSuci Samoga awet yoo</value>
+      <value>PASANGAN LOVER MANANG! 💑</value>
     </string>
     <string key="HunterKilledVisiter">
-      <value>Tu makonyo jan pagarahan juo si Hunter, {0} mati dek mancabuik bulu katiak Hunter {1}</value>
-      <value>Masyarakaik bakumpua di muko balai nagari mancaliak {0} kanai luko tembak tapek di kapalo!
-  	"Den ingekkan, bantuak iko kalau manggaduah den lalok ---Hunter---!" {1}</value>
+      <value>Tu makonyo jan pagarahan juo si Hunter, {0} mati dek mancubo mancabuik bulu katiak Hunter sadang lalok {1}</value>
     </string>
     <string key="CultAttempt">
-      <value>Sanak mancaliak martabak jo Sate lah bacampua di muko pintu rumah Sanak, tapi ndak ado urang surang alah e do.</value>
+      <value>Sanak mancaliak martabak jo sate lah bacampua di muko pintu rumah Sanak, tapi ndak ado urang surang alah e do.</value>
     </string>
     <string key="AlreadyOnWaitList">
-      <value>Sanak jan mada juo lai! Alah bara kali manakan /nextgame dari tadi ha??? {0}</value>
-      <value>Sanak jan mada juo lai, Ferguso! Alah bara kali manakan /nextgame dari tadi ha??? {0}</value>
-      <value>Sanak jan mada juo lai, Esmeralda! Alah bara kali manakan /nextgame dari tadi ha??? {0}</value>
-      <value>Sanak jan mada juo lai, Sanak! Alah bara kali manakan /nextgame dari tadi ha??? {0}</value>
+      <value>Sanak jan mada juo lai! Alah bara kali manakan /nextgame dari tadi ha? {0}</value>
     </string>
     <string key="AddedToWaitList">
       <value>Sanak alah mamasan imbauan untuak Grup {0}. Jan lupo untuak join. Kami agiah notifikasi untuak manganaan kok pamainan barikuiknyo dimulai.
@@ -862,18 +712,15 @@ LALOK 😌</value>
       <value>pamainan baru ka dimulai dalam {0}</value>
     </string>
     <string key="SerialKillerWinsOverpower">
-      <value>Pagi lah tibo.
-  	nagari kini langang bana, 2 urang nan tingga lai.
-  	{0} mancaliak {1} sambia galak, koleksi pincik tagak di di mukonyo.
-  	Nyo mutilasi untuak dijadian makanan tungau peliharanyo!</value>
+      <value>Tingga 2 urang lai. {1} pun tewas dibunuah {0}!</value>
     </string>
     <string key="NoWinner" isgif="true">
-      <value>Sado alah panduduak nagari alah tewas! Moderator manang B-)</value>
+      <value>Sado alah panduduak nagari alah tewas!</value>
     </string>
     <string key="SKHunterEnd">
       <value>{0} mancaliak {1} sambia galak, {0} balari dan menusuak dado {1}!
   	Katiko itu pulo muncuang senapan sadang mangarah tapek di kaniang {0}. DORRR!!
-  	Kaduonyo tajilapak, kaduonyo galak sabalum mati.</value>
+  	Kaduonyo tajilapak. Kaduonyo mati.</value>
     </string>
   <string key="RoleModelChosen">
     <value>Sanak sedang galau, ko wak piliahan induak samang untuak sanak: {0}</value>
@@ -2410,4 +2257,1020 @@ LALOK 😌</value>
   <string key="AchUnlocked">
   <value>Achievement unlocked!</value>
   </string>
+  <string key="AllowFoolish">
+    <value>Allow Foolish mode</value>
+  </string>
+  <string key="AllowFoolishQ">
+    <value>Do you want to enable foolish game mode?\nCurrent: {0}</value>
+  </string>
+  <string key="AllowFoolishA">
+    <value>Allow foolish game mode set to {0}</value>
+  </string>
+  <string key="SubstitutePlayer">
+  <value>{0} has been killed for idle. The bot chose you as his replacement. You are {1} now!</value>
+  </string>
+  <string key="SetSubstituteQ">
+  <value>Do you want to enable substitution for CH? \nCurrent: {0}</value>
+  </string>
+  <string key="None">
+  <value>No</value>
+  </string>
+  <string key="OnlyCH">
+  <value>Yes</value>
+  </string>
+  <string key="SetSubstituteA">
+  <value>Substitution set to {0}</value>
+  </string>
+  <string key="Achievement80Name">
+  <value>Spooked</value>
+  </string>
+  <string key="Achievement80Descr">
+  <value>Solve the first puzzle of the Halloween event</value>
+  </string>
+  <string key="Achievement81Name">
+  <value>Scared</value>
+  </string>
+  <string key="Achievement81Descr">
+  <value>Solve the second puzzle of the Halloween event</value>
+  </string>
+  <string key="Achievement82Name">
+  <value>Frightened</value>
+  </string>
+  <string key="Achievement82Descr">
+  <value>Solve the third puzzle of the Halloween event</value>
+  </string>
+  <string key="Achievement83Name">
+  <value>Fearful</value>
+  </string>
+  <string key="Achievement83Descr">
+  <value>Solve the fourth puzzle of the Halloween event</value>
+  </string>
+  <string key="Achievement84Name">
+  <value>Ghost whisperer</value>
+  </string>
+  <string key="Achievement84Descr">
+  <value>Solve all puzzles of the Halloween event</value>
+  </string>
+  <string key="Achievement85Name">
+  <value>Detective</value>
+  </string>
+  <string key="Achievement85Descr">
+  <value>Help uncover a hint for the Halloween event</value>
+  </string>
+  <string key="GhostApproaches">
+  <value>You managed to uncover a secret action! The ghost of Halloween approaches to give you a hint!</value>
+  </string>
+  <string key="ActionInfo">
+  <value>The hint was revealed for the action:</value>
+  </string>
+  <string key="Hint1">
+  <value>Jika kamu hampir betul memecahkan petunjuk ini, kamu akan merasa cemas dan orang-orang akan berbohong tentangnya untuk menyelubunginya dari pikiran cethek kamu.</value>
+  </string>
+  <string key="Action1">
+  <value>Mainkan sebuah game dengan 35 pemain</value>
+  </string>
+  <string key="Hint2">
+  <value>Ketakutan kamu kentara sekali! Benar-benar jelas kalau orang-orang takut kepadanya ketika mereka tahu bahwa dalam otak kosongnya mereka tidak dapat memecahkan petunjuk itu.</value>
+  </string>
+  <string key="Action2">
+  <value>Mainkan sebuah game foolish</value>
+  </string>
+  <string key="Hint3">
+  <value>Ketakutan kamu kentara sekali! Benar-benar jelas kalau orang-orang takut kepadanya ketika mereka tahu bahwa dalam otak kosongnya mereka tidak dapat memecahkan petunjuk itu.</value>
+  </string>
+  <string key="Action3">
+  <value>Dua peran yang dapat melihat peran lain (seer, oracle, fool atau detective) mati bersamaan dalam satu malam</value>
+  </string>
+  <string key="Hint4">
+  <value>Kamu takut kepada saya? Ketakutan bagai tikus yang gemetaran di pojok? Yah, begitulah bagian kehidupan setiap binatang. Gak perlu takut. Kamu tidaklah lebih baik.</value>
+  </string>
+  <string key="Action4">
+  <value>Ada sekurang-kurangnya 5 kutil di sebuah game</value>
+  </string>
+  <string key="Hint5">
+  <value>Sayangnya, gak ada di antara kamu yang pantas, tetapi bolehlah aku bantu. Semua mesin dapat memilikinya, tetapi kamu tidak.</value>
+  </string>
+  <string key="Action5">
+  <value>Puppet Master menang</value>
+  </string>
+  <string key="Hint6">
+  <value>"Aku ini hanyalah seorang manusia" adalah kata yang sering diucapkan saat berbuat salah. Apa betul? Pasti tiada di antara kamu yang cukup pintar untuk menyadari bahwa kita semua mengalami hal ini, entah berapapun usia kita.</value>
+  </string>
+  <string key="Action6">
+  <value>Thief berhasil mencuri serigala</value>
+  </string>
+  <string key="Hint7">
+  <value>Semakin gampang memengaruhi pikiran kamu. Sungguh disayangkan apabila kehidupan kerja profesional kamu sangat terpengaruh di sini. Jadi, jika kamu salah tebak, bisa-bisa perusahaan bangkrut.</value>
+  </string>
+  <string key="Action7">
+  <value>Cursed digigit</value>
+  </string>
+  <string key="Hint8">
+  <value>Jika kamu terus menghindar dari ketidaksanggupan kamu untuk menebak, sangatlah kasihan kamu, bagai angka 0 sendiri yang tak bernilai sama sekali! Herannya, ini adalah alasan orang suka menyalahkan orang lain.</value>
+  </string>
+  <string key="Action8">
+  <value>Harlot mengunjungi Puppet Master</value>
+  </string>
+  <string key="Hint9">
+  <value>Kini kamu sudah sejauh ini. Terkadang yang terjadi bisa yang diharapkan maupun tidak :). Kamu tidak akan bisa melampauinya jika gagal mengantisipasinya ;).</value>
+  </string>
+  <string key="Action9">
+  <value>GA melindungi sihir Mystic</value>
+  </string>
+<string key="Hint10">
+  <value>Jika kamu menjadi terlalu filosofis, kamu akan gagal menyadari jawaban sebenarnya. Akan tetapi, semua petunjuk ini telah dipikirkan dengan seksama, dan jawabannya berasal dari sebuah kutipan yang terkenal.</value>
+  </string>
+  <string key="Action10">
+  <value>Gak ada yang menang :(</value>
+  </string>
+  <string key="WrongSolution">
+  <value>HAHA! Kasian deh kamu! Memangnya kamu lebih pintar daripada saya? Coba lagi deh...</value>
+  </string>
+  <string key="RightSolution">
+  <value>Kamu mendengar erangan kesakitan dari setan yang menjauh dengan perlahan setelah kamu memberikan jawaban yang benar. Kamu hanya beruntung, teman!</value>
+  </string>
+<string key ="Hint11">
+  <value>AgADBAAD6a0xG_3ymVIXOAMloHVyJ5rOnhoABNIFBqtQwoD9uxkGAAEC</value>
+  </string>
+  <string key ="Hint12">
+  <value>AgADBAAD6K0xG_3ymVJhaujZScWSZ4cXnRoABG-zVT5CSSBSkRsGAAEC</value>
+  </string>
+  <string key="Hint13">
+  <value>AgADBAAD5q0xG_3ymVJ6Y9esKq8Hy0_3mxoABBtig4qW4qLpUiIGAAEC</value>
+  </string>
+  <string key="Hint14">
+  <value>AgADBAAD560xG_3ymVKlDiywgbefPxLonhoABBVL92083H2XmXcEAAEC</value>
+  </string>
+  <string key="Hint15">
+  <value>AgADBAADUK4xG2HOmFI_pB06_axtFVZzmhoABEHUSC_ITkbNIBwGAAEC</value>
+  </string>
+  <string key="Hint16">
+  <value>AgADBAAD5a0xG_3ymVJCtpLvRYxkhuZMnRoABN8sO5_4nFnm4yEGAAEC</value>
+  </string>
+  <string key="Hint17">
+  <value>AgADBAAD6q0xG_3ymVKsJ2ibD3V2MBU1uhoABO62mIyapD_UlRQEAAEC</value>
+  </string>
+  <string key="Action11">
+  <value>Semuanya menang dalam sebuah game.</value>
+  </string>
+  <string key="Action12">
+  <value>Penerawang (Seer) melihat WolfMan</value>
+  </string>
+  <string key="Action13">
+  <value>Cupid menjadikan Penerawang (Seer) sepasang kekasih.</value>
+  </string>
+  <string key="Action14">
+  <value>Mainkan sebuah game dengan minimum 20 pemain.</value>
+  </string>
+  <string key="Action15">
+  <value>Mainkan sebuah game dengan minimum 5 serigala.</value>
+  </string>
+  <string key="Action16">
+  <value>Cultist hunter mati pada malam pertama.</value>
+  </string>
+  <string key="Action17">
+  <value>Mainkan sebuah game dengan pemain yang baru pertama kali main.</value>
+  </string>
+ <string key="Action21">
+  <value>Mainkan game dengan 5 pemain</value>
+  </string>
+  <string key="Action22">
+  <value>Mainkan game tanpa ada pemainnya yang mati karena AFK</value>
+  </string>
+  <string key="Action23">
+  <value>Puppet master menang</value>
+  </string>
+  <string key="Action24">
+  <value>Wild child memilih serigala sebagai role model/panutannya</value>
+  </string>
+  <string key="Action25">
+  <value>Cultist Hunter membunuh semua kutil</value>
+  </string>
+  <string key="Action26">
+  <value>Serigala menginfeksi seorang warga desa</value>
+  </string>
+  <string key="Action27">
+  <value>Detektif yang sedang menyelidiki terdeteksi serigala</value>
+  </string>
+  <string key="Hint21">
+  <value>AwADBAADvgQAAj_94VIHQ2agZDQnwQI</value>
+  </string>
+  <string key="Hint22">
+  <value>AwADBAADwAQAAj_94VKlTBLM53uXmQI</value>
+  </string>
+  <string key="Hint23">
+  <value>AwADBAADuAQAAj_94VLx0_0boEpQ3QI</value>
+  </string>
+  <string key="Hint24">
+  <value>AwADBAADvAQAAj_94VKWgAxD4yuv2QI</value>
+  </string>
+  <string key="Hint25">
+  <value>AwADBAADugQAAj_94VJDDqhmKVUg3gI</value>
+  </string>
+  <string key="Hint26">
+  <value>AwADBAADwgQAAj_94VKZ8TrgllUsjAI</value>
+  </string>
+  <string key="Hint27">
+  <value>AwADBAADsAQAAj_94VK0Gz0h4EvBRAI</value>
+  </string>
+  <string key="Crack1">
+  <value>K</value>
+  </string>
+  <string key="Crack2">
+  <value>A</value>
+  </string>
+  <string key="Crack3">
+  <value>B</value>
+  </string>
+  <string key="Crack4">
+  <value>I</value>
+  </string>
+  <string key="Crack5">
+  <value>N</value>
+  </string>
+  <string key="Crack6">
+  <value>BE</value>
+  </string>
+  <string key="Crack7">
+  <value>R</value>
+  </string>
+  <string key="Crack8">
+  <value>BA</value>
+  </string>
+  <string key="Crack9">
+  <value>HA</value>
+  </string>
+  <string key="Crack10">
+  <value>YA</value>
+  </string>
+  <string key="Action30">
+  <value>Penerawang (Seer) melihat fool</value>
+  </string>
+  <string key="Action31">
+  <value>Serigala menginfeksi detektif</value>
+  </string>
+  <string key="Action32">
+  <value>Tanner dibakar di malam pertama</value>
+  </string>
+  <string key="Action33">
+  <value>Alchemist menyembuhkan serigala</value>
+  </string>
+  <string key="Action34">
+  <value>Serigala menginfeksi pengkhianat atau wild child</value>
+  </string>
+  <string key="Action35">
+  <value>Sepasang kekasih telah menang</value>
+  </string>
+  <string key="Action36">
+  <value>Guardian angel tidak mati saat menjaga serigala</value>
+  </string>
+  <string key="Action37">
+  <value>Serigala mati ketika mencoba membunuh hunter</value>
+  </string>
+  <string key="Action38">
+  <value>Serigala membunuh serial killer atau puppet master</value>
+  </string>
+  <string key="Action39">
+  <value>Doppelganger berubah menjadi cultist hunter</value>
+  </string>
+  <string key="Hint30">
+  <value>Kamu biasa mengenal seorang pemain dari nama dan usernamenya. Akan tetapi coba perhatikan lebih seksama, mungkin dari situ ada yang tersembunyi. Coba lihat dari berbagai sudut pandang.</value>
+  </string>
+  <string key="Hint31">
+  <value>Kamu biasa mengenal seorang pemain dari nama dan usernamenya. Akan tetapi coba perhatikan lebih seksama, mungkin dari situ ada yang tersembunyi. Coba lihat dari berbagai sudut pandang.</value>
+  </string>
+  <string key="Hint32">
+  <value>Huruf kapital harus digunakan. Tetapi bila menggunakannya di tempat yang salah akan mengurangi kualitas sebuah tulisan. Selalu menulis secara sederhana dan ringkas! Jangan hanya menggunakan kata tanpa tanda spasi dan menggantikannya dengan huruf kapital saja (KataKapital).</value>
+  </string>
+  <string key="Hint33">
+  <value>Terkadang perlu untuk berhenti sebentar dan menganalisa lagi apa yang telah kamu pelajari. Walaupun sejarah terjadi di masa lampau and tidak akan mempengaruhi masa depan, mereka bagaikan cermin yang bisa mengarahkan kita ke jalan yang benar.</value>
+  </string>
+  <string key="Hint34">
+  <value>Instruksi sangatlah penting. Bukankah kamu biasa untuk mencoba mengerti instruksi sebelum mengerjakan ujian atau memulai proyek? Instruksi adalah kunci, sehingga kamu tidak melakukan kesalahan yang besar atau yang tidak diinginkan.</value>
+  </string>
+  <string key="Hint35">
+  <value>Sebuah rumah terdiri dari banyak kamar dan ruangan. Bagaimana kamu dapat menemukan sesuatu di dalam rumah tanpa memeriksa semua ruangan?</value>
+  </string>
+  <string key="Hint36">
+  <value>Dokumen harus di atur dengan benar sehingga memudahkan dalam mencari. Jangan coba untuk mengubah aturannya!</value>
+  </string>
+  <string key="Hint37">
+  <value>Ini sudah jelas sebuah teka teki. Coba gunakan otak kamu untuk memecahkannya! Jadilah raja teka teki dan koding yang bisa kamu banggakan ke teman-teman kamu!</value>
+  </string>
+  <string key="Hint38">
+  <value>Jika kamu ... ... , akan kupukul kepalamu hingga pingsan. Bagaimana kamu mengisi titik titik itu? Kirim jawabannya dengan perintah ke bot.</value>
+  </string>
+  <string key="Hint39">
+  <value>Ketika bahasa memisahkan kita 😀, selalu terdapat jalan lain untuk berkomunikasi 😁. Mungkin kamu harus mengubah sesuatu 🤭?</value>
+  </string>
+  <string key="WinnerGroups">
+  <value>Helloween event winners:</value>
+  </string>
+  <string key="LanguageUsed">
+  <value>(using language pack {0})</value>
+  </string>
+  <string key="DisabledFoolish">
+  <value>Foolish mode telah dinonaktifkan oleh administrator grup</value>
+  </string>
+  <string key="AllowClassic">
+    <value>Ijinkan Classic mode</value>
+  </string>
+  <string key="AllowClassicQ">
+    <value>Apakah Kamu ingin mengaktifkan mode Classic game ?\nCurrent: {0}</value>
+  </string>
+  <string key="AllowClassicA">
+    <value>Ijinkan Classic game mode telah di set {0}</value>
+  </string>
+  <string key="AllowMighty">
+    <value>Ijinkan Mighty mode</value>
+  </string>
+  <string key="AllowMightyQ">
+    <value>Apakah Kamu ingin mengaktifkan mode Mighty game ?\nCurrent: {0}</value>
+  </string>
+  <string key="AllowMightyA">
+    <value>Ijinkan Mighty game mode telah di set {0}</value>
+  </string>
+  <string key="DisabledClassic">
+  <value>Classic mode telah dinonaktifkan oleh administrator grup</value>
+  </string>
+  <string key="DisabledMighty">
+  <value>Mighty mode telah dinonaktifkan oleh administrator grup.</value>
+  </string>
+  <string key="PlayerStartedClassicGame">
+  <value>{0} telah memulai permainan (CLASSIC)! Bergabung dan bunuh semua warga desa! 😈</value>
+    <value>Permainan (CLASSIC) telah di mulai oleh {0}! Bergabung dan mari berpesta 🔥 !</value>
+  </string>
+  <string key="PlayerStartedMightyGame">
+  <value>{0} alah mamulai pamaian (MIGHTY)! Ko sero mah sanak, role-nya nan iyo-iyo se nyo. Pek lah bilo lo lai! 😈</value>
+  </string>
+  <string key="Social">
+  <value>Status sosial kamu</value>
+  </string>
+  <string key="MostPlayedWith">
+  <value>👬 Teman terdekat</value>
+  </string>
+  <string key="Kills">
+  <value>🔪 Membunuh</value>
+  </string>
+  <string key="KilledBy">
+  <value>☠️ Terbunuh oleh</value>
+  </string>
+  <string key="MostLoversWith">
+  <value>❤️ Mantan Kekasih</value>
+  </string>  
+  <string key="PuppetMasterTeamEnd">
+    <value>Puppet Master Team</value>
+  </string>
+  <string key="the">
+  <value>the</value>
+  </string>
+  <string key="Rank1Name">
+  <value>Pack Leader ⚡️</value>
+  </string>
+  <string key="Rank2Name">
+  <value>Beta Wolf 🌚</value>
+  </string>
+  <string key="Rank3Name">
+  <value>Pack Member 🐺</value>
+  </string>
+  <string key="Rank4Name">
+  <value>Lone Wolf 🐾</value>
+  </string>
+  <string key="Rank5Name">
+  <value>Newly Bitten 🐶</value>
+  </string>
+  <string key="Rank6Name">
+  <value>Infected Soul ☠️</value>
+  </string>
+  <string key="Rank7Name">
+  <value>Lowly Peasant 👨‍🌾</value>
+  </string>
+  <string key="Rank7Descr">
+    <!-- <value>"Hujan aku suka kamu, Tapi aku ingin berkebun" ()</value>
+    <value>"Aku tidak tahu apa yang kini kurasakan Yang aku tahu, hidupku terasa lebih indah dan bersemangat saat melihatmu pertama kali menemaniku dikebun"</value> -->
+      <value>" Jangan sakiti aku, karena rasanya sakit! "</value>
+      <value>" Di dunia ini tidak ada yang nothing. Ketahuilah kawan bahwa impossible itu tidak mungkin. Jadi, yakinlah setiap tindakan butuh action "</value>
+      <value>" Jangan mengarungi lautan, karena karung lebih cocok untuk beras "</value>    
+  </string>
+  <string key="Rank6Descr">      
+    <!-- <value>"Tidak ada hal yang lebih berseni selain menyukai dan mengagumi seseorang"</value>
+    <value>"Dua alasan kenapa seseorang berubah, karena pikirannya telah terbuka atau karena hatinya telah terinfeksi dan terluka"</value> -->
+      <value>" Kesuksesan adalah ketika kamu sukses! "</value>
+      <value>" Janganlah main ww sambil tiduran, nanti ketiduran "</value>
+      <value>" Kegagalan bukanlah suatu keberhasilan "</value>
+  </string>
+  <string key="Rank5Descr">
+    <!-- <value>"Tidak ada orang yang benar benar berubah, mereka hanya mulai menunjukan sifat asli mereka"</value>
+    <value>"Perempuan tanpa laki laki, ibarat ikan tanpa sepeda"</value> -->
+      <value>" Menangislah! Karena sesungguhnya air mata itu air yang jatuh dari mata "</value>    
+      <value>" Sepandai-pandainya tupai melompat, pasti dia pandai melompat. Jika dia terjatuh, sebenarnya dia tidak pandai melompat "</value>
+      <value>" Orang bodoh lebih mudah bahagia. Dengan kebodohannya "</value>
+  </string>
+  <string key="Rank4Descr">
+    <!--  <value>"Aku tidak sendirian, karena kesendirian ku selalu bersamaku"</value>
+    <value>"Aku bosan di pihak mencintai sendirian, aku juga ingin di cintai, aku juga ingin di perjuangkan oleh mu"</value> -->
+      <value>" Jangan pernah menyerah! Karena berjuang bukan berarti GIVE UP "</value>
+      <value>" Anggaplah omong kosong sebagai BULLS**T "</value>
+      <value>" Hatimu seperti busa. Dia lembut, namun kadang pedih di mata "</value>      
+    </string> 
+  <string key="Rank3Descr">
+    <!-- <value>"Aku tau kita temen, tapi kalau pacar kamu sukanya aku, aku bisa apa?"</value>
+    <value>"Aku tak pernah peduli kamu jodohku atau bukan, tapi dibalik itu kamu lah yang selalu aku perjuangkan untuk bersama</value> -->
+      <value>" BE WISE! Karena wise adalah bijak "</value>
+      <value>" Janganlah main ww sambil tiduran, nanti ketiduran "</value>
+      <value>" Nggak noleh bukan berarti sombong. Mungkin saja lehernya lagi dikunci stang "</value>
+  </string>
+  <string key="Rank2Descr">
+    <!-- <value>"Kamu boleh bilang aku terlalu sibuk dan menyebalkan. Tapi kamu perlu tau hal yang paling aku nantikan 
+    adalah kamu tersenyum karena aku, bukan karena dia"</value>
+    <value>"Aku selalu berharap akan ada hari tukeran hati, biar kamu ngerasain apa yang aku rasain, rasa menjadi pilihan ke dua"</value> -->
+      <value>" Karena sebenarnya, maksud di balik 'aku nggak papa' adalah 'IM NO FATHER' "</value>
+      <value>" Satu bulan tak bertemu, bagaikan tiga puluh hari tanpamu "</value>
+      <value>" Mempunyai kesamaan dengan do'i itu bukan berarti jodoh. Jenis kelaminnya sama misalnya "</value>
+  </string>
+  <string key="Rank1Descr">
+    <!-- <value>"Mendidik seorang pria sama dengan mendidik anak manusia, mendidik perumpuan sama dengan mendidik sebuah keluarga"</value>
+    <value>"Hidup itu simple, kita yang membuatnya sulit"</value> -->
+      <value>" Dimanapun kamu berada, yakinlah bahwa yakin bukan berarti ragu! "</value>
+      <value>" Wasting time hanyalah membuang buang waktu "</value>
+      <value>" Janganlah main ww sambil tiduran, nanti ketiduran "</value>
+      
+  </string>
+  <string key="NewLevel">
+  <value>Kamu telah mencapai level yang baru</value>
+  </string>
+  <string key="ReachedLevel">
+  <value>Status level kamu telah menjadi {0}!</value>
+  </string>
+  <string key="CurrentProgress">
+  <value>Sekarang kamu mempunyai {0}.</value>
+  </string>
+  <string key="need">
+  <value>Butuh</value>
+  </string>
+  <string key="collected">
+  <value>Terkumpul</value>
+  </string>
+  <string key="CountAchievements">
+  <value>Achievements Unlocked!</value>
+  </string>
+  <string key="GamesWon">
+  <value>Games Won ({0}%)</value>
+  </string>
+  <string key="GamesLost">
+  <value>Games Lost ({0}%)</value>
+  </string>
+  <string key="GamesSurvived">
+  <value>Games Survived ({0}%)</value>
+  </string>
+  <string key="TotalGames">
+  <value>Total Games</value>
+  </string>
+  <string key="MostKilled">
+  <value>times gleefully killed</value>
+  </string>
+  <string key="MostKilledBy">
+  <value>times slaughtered by</value>
+  </string>
+  <string key="MoonSymbol">
+  <value>🌙</value>
+  </string>
+  <string key="NextRank">
+  <value>Rank selanjutnya: {0} (butuh {1})</value>
+  </string>
+  <string key="ApprenticeNowCH">
+  <value>{0} adolah Pamburu Urang Bunian (CH). Sanak sabagai murik baliau, mamabiak aliah tugas mulia itu, manjadi Pamburu Urang Bunian.</value>
+  </string>
+  <string key="RoleInfoSquire">
+    <value >Sanak adolah Squire 🛡. Murik dari Pamburu Urang Bunian (CH). Kalau Si Pamburu Urang Bunin mati, sanak malanjuikkan tugasnyo.</value>
+  </string>
+  <string key="AboutSquire">
+    <value >Sanak adolah Squire 🛡. Murik dari Pamburu Urang Bunian (CH). Kalau Si Pamburu Urang Bunin mati, sanak malanjuikkan tugasnyo.</value>
+  </string>
+  <string key="Squire">
+    <value>Squire 🛡</value>
+  </string>
+  <string key="PuppetMasterForceCultKill">
+    <value>Puppet master mangandalikan sanak untuak mambunuah {0}, kawan sanak surang.</value>
+  </string>
+  <string key="CultKillCult">
+    <value>Kawan urang bunian sanak tibo-tibo mambunuah sanak. Haha ibo.</value>
+  </string>
+   <string key="PuppetMasterForceWerewolfKill">
+    <value>Ondeh! Puppet master mangandalikan sanak untuak mambunuah kawan sanak surang. {0} mati.</value>
+  </string>
+  <string key="WolvesKillWolf">
+    <value>Kawan-kawan sanak tibo-tibo mambunuah sanak. Hmm 🤔</value>
+  </string>
+  <string key="CultKillCultMessage">
+    <value>{0} Urang bunian 👤 mati dibunuah kawan-kawannyo surang. Haha!</value>
+  </string>
+  <string key="WerewolfKillWerewolfMessage">
+    <value>{0} mati dibunuah kawan-kawannyo surang. Haha!</value>
+  </string>
+  <string key="ForcedSleep">
+	<value>Puppet master alah mengendalikan sanak!.</value>
+  </string>
+  <string key="RoleConfigEntrance">
+	<value>Pilih role yang akan dinonaktifkan/diaktifkan</value>
+  </string>
+  <string key="Unused">
+	<value>Unused slot</value>
+  </string>
+  <string key="Beauty">
+  <value>the Beauty 💅</value>
+  </string>
+  <string key="RoleInfoBeauty">
+    <value>The Beauty 💅, kalau ado nan pai ka rumah sanak, inyo langsuang jatuah hati dan jadi lover sanak.</value>
+  </string>
+  <string key="AboutBeauty">
+    <value>The Beauty 💅, kalau ado nan pai ka rumah sanak, inyo langsuang jatuah hati dan jadi lover sanak.</value>
+  </string>
+  <string key="SerialKillerLovesBeauty">
+    <value>Niek nio mambunuah {0}, tapi akhirnyo sanak jatuah hati ka inyo. Kalian pun jadi pasangan! 😘.</value>
+  </string>
+  <string key="BeautyStartsToLove">
+    <value>{0} baniek jahek, tapi barakhir jatuah hati. Kalian pun manjadi pasangan! 😘</value>
+  </string>
+  <string key="WolfLovesBeautyOtherWolves">
+    <value>Sanak jo konco-konco sanak baniek mamakan {0}. Dek mancaliak rupo {0} nan rancak, sanak pun jatuah hati dan malarang kawan-kawan sanak mamakannyoo. Sanak jo {0} pun jadi pasangan. 😘</value> 
+  </string>
+  <string key="WolfLovesBeauty">
+    <value>Niek ka mamakan {0}, tapi akhirnyo sanak jatuah hati ka inyo. Kalian pun jadi pasangan! 😘.</value>
+  </string>
+  <string key="WolvesLeaveBeauty">
+    <value>Sanak jo konco sanak masuak ka rumah {0}. Salah satu konco sanak malarang mamakan {0}, konco sanak tu alah jatuah hati ka inyo. Sanak baliak indak makan apo-apo.</value>
+  </string>
+  <string key="CHLovesBeauty">
+    <value>Sanak masuak ka rumah the Beauty. Sanak pun jadi pasangannyo! 😘</value>
+  </string>
+  <string key="CultLovesBeauty">
+    <value>Sanak masuak ka rumah the Beauty. Sanak pun jadi pasangannyo! 😘</value>
+  </string>
+  <string key="CultLovesBeautyOtherCult">
+    <value>Sanak masuak ka rumah the Beauty. Sanak pun jadi pasangannyo! 😘</value>
+  </string>
+  <string key="CultLeavesBeauty">
+    <value>Salah satu konco sanak jatuah hati ka {0}. Sanak pun indak jadi manghasuik {0} untuak dijadian Urang bunian! CK!</value>
+  </string>
+  <string key="ThiefLovesBeauty">
+    <value>Sanak masuak ka rumah the Beauty. Sanak pun jadi pasangannyo! 😘</value>
+  </string>
+  <string key="ProwlerLovesBeauty">
+    <value>Sanak masuak ka rumah the Beauty. Sanak pun jadi pasangannyo! 😘</value>
+  </string>
+  <string key="OldLoverDeath">
+    <value>Sanak alah punyo pasangan baru. Sanak pun bacarai jo {0}.</value>
+  </string>
+  <string key="OldLoverDied">
+    <value>{0} mati bunuah diri dek ditinggaan dek pasangannyo. Sadiah!</value>
+  </string>
+  <string key="OldLoverSuicide">
+    <value>Pasangan sanak maninggaan sanak. Sanak pun sadiah bana, sampai akhirnyo sanak mamutuihkan untuk bunuah diri sajo :(</value>
+  </string>
+  <string key="PlayerStartedRomanceGame">
+    <value>{0} alah mamulai pamainan (ROMANCE)! Pek lah nan jomblo! </value>
+  </string>
+  <string key="LoverPM">
+    <value>Kamu telah jatuh cinta! ini cinta sejati, bukan dari panah asmara cupid. {0} telah menjadi kekasihmu. jika dia mati, kamu akan ikut menemaninya ke surga. jika salah satu dari kalian menang, pasangan kalian juga akan menang.</value>
+  </string>
+  <string key="AnotherLoverPM">
+    <value>Selamat!, kamu tidak jomblo lagi! Kamu telah menemsukan pengisi hatimu! dia adalah {0}! jika dia mati, kamu akan ikut menemaninya ke surga. jika salah satu dari kalian menang, pasangan kalian juga akan menang.</value>
+  </string>
+  <string key="HarlotLovesBeauty">
+    <value>Malam ini kamu pergi ke rumah {0}, ini adalah malam terbaik yang pernah kau alami! kamu jatuh cinta pada {0} dan menjadikannya kekasihmu.</value>
+  </string>
+  <string key="GuardianAngelLovesBeauty">
+    <value>Kamu memilih untuk menjaga {0} . ketika menjaganya, kamu terpana dengan kecantikannya. kamu mememutuskan untuk menjaga dan memiliki hatinya juga :* .</value>
+  </string>
+  <string key="AllowRomance">
+    <value>Aktifkan mode (ROMANCE)</value>
+  </string>
+  <string key="AllowRomanceQ">
+    <value>Apa kamu akan mengaktifkan mode ROMANCE? \nCurrent: {0}</value>
+  </string>
+  <string key="AllowRomanceA">
+    <value>mode game (ROMANCE) diatur menjadi {0}</value>
+  </string>
+  <string key="DisabledRomance">
+  <value>Game mode (ROMANCE) telah dinonaktifkan oleh admin grup.</value>
+  </string>
+  <string key="ChooseRole">
+  <value>Pilih role yang akan dinonaktifkan</value>
+  </string>
+  <string key="NoRole">
+  <value>Set Slot to unused</value>
+  </string>
+  <string key="Back">
+  <value>Kembali ke main menu </value>
+  </string>
+  <string key="GABecameFallenAngel">
+  <value>Kamu merasakan seluruh tubuhmu kesakitan. Perlahan sayapmu berubah menjadi hitam, kamu telah berubah menjadi Fallen Angel 👼🐺. Kamu dapat memilih untuk melindungi para serigala atau membunuh warga desa.</value>
+  </string>
+  <string key="FallenGAProtectOrKill">
+  <value>Kamu bisa memilih untuk melindungi serigala atau membantu mereka membunuh warga desa. Mana yang akan kamu lakukan?</value>
+  </string>
+  <string key="FallenGAProtectWho">
+  <value>Siapa yang akan kamu lindungi?</value>
+  </string>
+  <string key="FallenGAKillWho">
+  <value>Siapa yang akan kamu bunuh?</value>
+  </string>
+  <string key="RoleInfoFallenAngel">
+  <value>The Fallen Angel 👼🐺 . Kamu dahulu seorang malaikat pelindung, namun serigala telah menodaimu. Menghisap habis semua kebaikan dalam dirimu dan mengubahmu menjadi fallen angel, sang pelindung kejahatan. Kamu bisa melindungi para serigala atau membantu mereka membunuh warga desa.</value>
+  </string>
+  <string key="AboutFallenAngel">
+  <value>The Fallen Angel 👼🐺 . Kamu dahulu seorang malaikat pelindung, namun serigala telah menodaimu. Menghisap habis semua kebaikan dalam dirimu dan mengubahmu menjadi fallen angel, sang pelindung kejahatan. Kamu bisa melindungi para serigala atau membantu mereka membunuh warga desa.</value>
+  </string>
+  <string key="Guard">
+  <value>Lindungi Serigala</value>
+  </string>
+  <string key="Kill">
+  <value>Bunuh warga desa</value>
+  </string>
+  <string key="CultConvertFallenAngel">
+  <value>Kamu mengutus {0} ke rumah {1}, tiba-tiba tubuh {0} terlempar ke luar jendela dengan bulu hitam 👼🐺 menancap di seluruh tubuhnya!!! {0} telah tewas.</value>
+  </string>
+  <string key="ProtectWerewolfNothingHappened">
+  <value>Kamu memutuskan untuk melindungi {0}, akan tetapi dia tidak diserang.</value>
+  </string>
+  <string key="ProtectedWolf">
+  <value>Seseorang datang untuk membunuhmu semalam. Akan tetapi fallen angel 👼🐺 berhasil melidungimu!!! HOREEYYY,,...!!!!</value>
+  </string>
+  <string key="ProtectWerewolf">
+  <value>Kamu berhasil melindungi {0} dari bahaya!.</value>
+  </string>
+  <string key="HarlotNotHomeFA" >
+    <!-- 0 - player name -->
+    <value >Kamu menemukan rumah {0} sepi, sayang sekali yaa. </value>
+  </string>
+  <string key="FaLovesBeauty">
+    <value>Kamu ke rumah {0} namun dia terlalu cantik untuk mati. kamu menjaga tidur malamnya dengan sayap-sayap hitammu 👼🐺. dan membuat {0} jatuh cinta padamu, sehingga kalian menjalani hubungan asmara cie cie..</value>
+  </string>
+  <string key="HunterKillsFallenEnd">
+    <!--{0} = hunter's name, {1} = wolf's name-->
+    <value>
+      Hanya {0} dan {1} yang tersisa!. {1} mencoba untuk membunuh {0} . Dengan mudah ia menghindari serangan {1} dan menembak sayap sayapnya hingga tewas.
+    </value>
+  </string>
+  <string key="FallenKillsHunterEnd">
+    <!--{0} = hunter's name, {1} = wolf's name-->
+    <value>Hanya {0} dan {1} yang tersisa!. {1} menembakkan bulunya ke arah {0}. {0} telah tewas, ratusan bulu hitam tertancap di tubuhnya.</value>
+  </string>
+  <string key="FaKillsYou">
+    <!--{0} = hunter's name, {1} = wolf's name-->
+    <value>Sesosok bersayap hitam membangunkanmu, matamu terbuka melihat ratusan bulu hitam melesat ke arahmu. kamu telah terbunuh oleh Fallen Angel  👼🐺 .</value>
+  </string>
+  <string key="FaKilled">
+    <value>Pagi telah tiba, warga desa mencari {0} , namun mereka justru menemukan mayatnya tertancap bulu-bulu berwarna hitam.</value>
+  </string>
+  <string key="SerialKillerKillsFallenAngel">
+    <value>Kamu pergi ke rumah {0} namun dia memasang perangkap untukmu. kamu tidak bisa melepaskan diri dari perangkapnya. serial killer memotong sayapmu satu-persatu untuk dikoleksi.</value>
+  </string>
+  <string key="HunterShootsFallenAngel">
+    <value>Kamu pergi ke rumah {0} namun sayapmu tiba-tiba tertembak dari belakang. kamu telah mengganggu tidur sang hunter.</value>
+  </string>
+  <string key="HunterShotFallenAngel">
+    <value>Mayat {0} ditemukan dengan sayap hitam yang telah berlubang. Fallen angel telah mati ditangan seorang hunter.</value>
+  </string>
+  <string key="SerialKillerKilledFallenAngel">
+    <value>Pagi telah tiba, warga desa menemukan mayat {0} terkapar dengan bulu-bulu hitam berjatuhan di sekitarnya. serial killer telah membunuh dan mengambil sayapnya untuk dikoleksi.</value>
+  </string>
+  <string key="HarlotFuckedFaPublic">
+    <value>Uppsss,... sepertinya harlot mengunjungi rumah yang salah semalam .tubuh {0} ditemukan terkapar dengan ratusan bulu hitam menancap di tubuhnya. harlot telah dibunuh oleh fallen angel 👼🐺..</value>
+  </string>
+  <string key="HarlotFuckedFaKilledPublic">
+    <value> Harlot alias {0} datang ke rumah {1} namun, Fallen angel membunuh mereka berdua dan menjadikan mereka santapan serigala...</value>
+  </string>
+  <string key="CultConvertFaPublic">
+    <value>Sepertinya pemuja kerang ajaib mengajak orang yang salah untuk bergabung. Sebagai seorang utusan, {0} harus mati di tangan fallen angel...</value>
+  </string>
+  <string key="FallenAngel" >
+    <!-- 0 - player name -->
+    <value >the Fallen Angel 👼🐺</value>
+  </string>
+  <string key ="ProwlerSeesFallenAngel">
+  <value>Kamu pergi ke rumah {0} , kamu melihat dia berubah, menampakkan sayap hitamnya. Kamu menemukan sekutu yang kuat, {1} adalah fallen angel 👼🐺.</value>
+  </string>
+  <string key="Achievement86Name">
+  <value>Mad love</value>
+  </string>
+  <string key="Achievement86Descr">
+  <value>As the puppet master, force the cupid to pair yourself as one of the lovers</value>
+  </string>
+  <string key="Achievement87Name">
+  <value>Double Trackers</value>
+  </string>
+  <string key="Achievement87Descr">
+  <value>Be one of two cultist hunters alive</value>
+  </string>
+  <string key="Achievement88Name">
+  <value>Spellcasting greatness</value>
+  </string>
+  <string key="Achievement88Descr">
+  <value>As the mystic, successfully help to infect at least three people in one game</value>
+  </string>
+  <string key="BlackWolf">
+  <value>the Black Wolf 🐺🌑</value>
+  </string>
+  <string key="RoleInfoBlackWolf">
+  <value>Black Wolf! 🐺🌑, tugas sanak adolah mancari salah satu Serigala dan manantang si Rabidin (Alpha Wolf) untuak duel. Kalau sanak bisa mambunuah inyo, sanak akan manjadi Si Rabidin (Alpha Wolf) salanjuiknyo.</value>
+  </string>
+  <string key="AboutBlackWolf">
+  <value>Black Wolf! 🐺🌑, tugas sanak adolah mancari salah satu Serigala dan manantang si Rabidin (Alpha Wolf) untuak duel. Kalau sanak bisa mambunuah inyo, sanak akan manjadi Si Rabidin (Alpha Wolf) salanjuiknyo.</value>
+  </string>
+  <string key="Normal">
+  <value>Normal</value>
+  </string>
+  <string key="Chaos">
+  <value>Chaos</value>
+  </string>
+  <string key="Mighty">
+  <value>Mighty</value>
+  </string>
+  <string key="Classic">
+  <value>Classic</value>
+  </string>
+  <string key="Foolish">
+  <value>Foolish</value>
+  </string>
+  <string key="Romantic">
+  <value>Romantic</value>
+  </string>
+  <string key="StartGameGroup">
+  <value>{0} Telah memulai permainan! {0}, Silahkan pilih mode yang diinginkan di personal chat. Atau gunakan tombol di bawah ini. Jika kamu tidak memilih dalam 30 detik, orang lain yang akan memilihkannya. milih aja lama :P </value>
+  </string>
+  <string key="GetModeMenu">
+  <value>Gunakan tombol di bawah ini untuk memilih mode!</value>
+  </string>
+  <string key="GameAlreadyStarted">
+  <value>Uppss,.. sepertinya permainan lain telah berlangsung! gunakan tombol di bawah ini untuk memilih mode yang diinginkan. jika tidak bisa, tunggu 30 detik. </value>
+  </string>
+  <string key="Questionmark">
+  <value>❓</value>
+  </string>
+  <string key="ChooseMode">
+  <value>Silahkan pilih mode yang diinginkan. jika kamu bingung, pilih tanda tanya (?).</value>
+  </string>
+  <string key="NormalHelp">
+  <value>(NORMAL), Semua role tersedia (kecuali yang sudah dinonaktifkan oleh admin). jumlah bad dan good role telah diatur agar seimbang.</value>
+  </string>
+  <string key="ChaosHelp">
+  <value>(CHAOS), Semua role tersedia (kecuali yang sudah dinonaktifkan oleh admin). Tidak seperti mode normal, jumlah bad dan good role sepertinya agak berat sebelah 🤭🤭 .</value>
+  </string>
+  <string key="FoolishHelp">
+  <value>(FOOLISH), Role yang diberikan kebanyakan fool, satu WEREWOLF, dan satu SEER asli. Jika jumlah pemain lebih dari 10 orang, akan ada App.Seer, Sorcerer, dan Oracle 🤭🤭🤭 </value>
+  </string>
+  <string key="MightyHelp">
+      <value>(MIGHTY). Capek dapet role gaguna? Di mode ini kamu akan selalu dapat role yang berguna, nggak cuma nunggu di nom serigala. BAKAR,..!!! 🔥🔥🔥🔥🔥🔥 </value>
+  </string>
+  <string key="ClassicHelp">
+  <value>(CLASSIC) . Role yang tersedia di mode ini hanya : Warga desa, Seer, Drunk, Harlot dan Serigala NOM NOM NOM .</value>
+  </string>
+  <string key="RomanticHelp">
+  <value>(ROMANCE) Persis seperti mighty, namun setelah malam pertama, semua pemain tidak akan jomblo lagi. JONES merapat,.....!!!! 😘😘 </value>
+  </string>
+  <string key="FleeButton">
+  <value>Jangan pake command buat kabur sayang. Pake tombol aja, udah aku chat kok. mumumu,... 😘😘 .</value>
+  </string>
+  <string key="FleePm">
+  <value>Gunakan tombol di bawah untuk kabur dari permainan di {0}</value>
+  </string>
+  <string key="FleeText">
+  <value>Kabur</value>
+  </string>
+  <string key="BlackFindsAlphaWolfMsg">
+  <value> Ado Black Wolf! 🐺🌑 {0} alah berhasil mambunuah si Rabidin (Alpha Wolf)!</value>
+  </string>
+  <string key="BlackFindsAlphaAlpaMsg">
+  <value>Tadi malam Black Wolf 🐺🌑 alah basobok jo sanak, {0} menantang sanak untuak baduel jo inyo.</value>
+  </string>
+  <string key="BlackFindsAlphaBlackMsg">
+  <value>Sanak berhasil, sanak basobok jo kawanan serigala nan dipimpin dek {0}.</value>
+  </string>
+  <string key="BlackFlees">
+  <value>Amatir!!! {0} sanak ndak talok mangalahan si Rabidin (Alpha Wolf). Sanak pun lari puntang-pantiang. </value>
+  </string>
+  <string key="BlackFleesWolfAlphaMessage">
+  <value>Sanak berhasil mangalahan {0}. Inyo lari! </value>
+  </string>
+  <string key="BlackFleesfWWMessage">
+  <value>Duel yang seru!! namun sekali lagi, Sang Alpha tidak terkalahkan. Kamu melihat {0} kabur setelah kalah dengan memalukan....</value>
+  </string>
+  <string key="BlackWolfBecomeWolfAlphaMessage">
+  <value>OH TIDAK,..!!! {0} terlalu kuat. Black Wolf telah berhasil megalahkanmu. Kamu terkapar meratapi kedudukanmu digantikan olehnya. Sekarang dia mengambil kedudukanmu sebagai Alpha yang baru.</value>
+  </string>
+  <string key="BlackWolfBecomeWolf">
+  <value>{0}, Duel hebat sudah berakhir. Kamu kalah, namun sang Alpha telah mengakui kekuatanmu. Selamat,..!!!! Alpha telah mengajakmu bergabung dengan kawanan serigala. Teman serigalamu adalah : {1}</value>
+  </string>
+  <string key="BlackWolfBecomeWolfWWMessage">
+  <value>{0}, Duel yang sengit telah dimulai. Kamu melihat Alpha Wolf bertarung dengan baik. {1} mengakui kekuatan Black Wolf dan menyatakan kalau Black Wolf akan bergabung dengan kawananmu.</value>
+  </string>
+  <string key="BlackWolfKillApha">
+  <value>{0} Kamu telah berhasil membunuh Alpha Wolf. Kamu menjadi Alpha Wolf yang baru. Teman serigalamu adalah: {1}</value>
+  </string>
+  <string key="BlackWolfKillAlphaWWMessage">
+  <value>{0} TEWAS! Black werewolf telah berhasil membunuh {1}. kamu mengakui kekuatan Black werewolf dan memilihnya menjadi Alpha yang baru</value>
+  </string>
+  <string key="BlackWolfKillAlphaAlphaMessage">
+  <value>{0}, Kamu tidak berdaya menghadapi Black Werewolf, kamu terkapar lemah di atas tanah. Black Wolf memutuskan untuk menghabisimu saat itu juga..</value>
+  </string>
+  <string key="AlphaKillBlackWolfWWMessage">
+  <value>{0}, Black Werewolf terlalu lemah, dia telah tewas di tangan Alpha Wolf.</value>
+  </string>
+  <string key="AlphaKillBlackWolf">
+  <value>{0}, Kamu terlalu meremehkan sang Alpha, dia dengan cepat menerkam lehermu. Tubuhmu terkulai lemas tak berdaya. Tanpa berpikir panjang, Alpha Wolf langsung menghabisimu.</value>
+  </string>
+  <string key="AlphaKillBlackWolfAlphaMessage">
+  <value>{0}, Sang Black Wolf menantangmu, namun dia terlalu lemah untukmu. Tanpa basa basi, kamu berhasil membunuhnya dengan mudah.</value>
+  </string>
+  <string key="PackFindsBlackWWMsg">
+  <value>Kamu TERKEJUTT,..!!! Targetmu Berubah wujud menjadi Black Wolf. {0} langsung menantang sang Alpha untuk berduel!.</value>
+  </string>
+  <string key="PackFindsBlackBlackMsg">
+  <value>Rumahmu dikunjungi Kawanan serigala! kamupun menantang Alpha Wolf {0} untuk mendapatkan kepemimpinannya! </value>
+  </string>
+  <string key="PackFindsBlackAlphaMsg">
+  <value>Kamu TERKEJUTT,..!!! Targetmu Berubah wujud menjadi Black Wolf. {0} langsung menantangmu untuk berduel. Tenang, duel ini pasti mudah kamu menangkan 😘😘 .</value>
+  </string>
+  <string key="BlackFindsPackNoAlphaBlackMsg">
+  <value>Kamu masuk ke rumah {0} untuk mencari Alpha Wolf, namun kamu menemukan {0} adalah serigala biasa, tidak ada Alpha diantara mereka. Kamu menawarkan diri kepada {0} sebagai Alpha yang baru.  Selamat,! kamu telah menjadi Alpha Wolf. teman serigalamu adalah: {1}</value>
+  </string>
+  <string key="BlackFindsPackBlackMsg">
+  <value>Kamu masuk ke rumah {0} untuk mencari Alpha Wolf, namun kamu menemukan {0} adalah serigala biasa. Kamu menawarkan diri kepada {0} sebagai Alpha, namun sayang sekali kawanan mereka sudah memiliki Alpha Wolf.</value>
+  </string>
+  <string key="BlackFindsPackNoAlphaWwMsg">
+  <value> Black Wolf {0} datang ke rumahmu malam tadi. Jiwa kepemimpinan terlihat jelas di taringnya. Dia menawarkan diri sebagai Alpha Wolf. Karena tidak ada Alpha Wolf di kawananmu, kamu mengajak dia bergabung sebagai Alpha yang baru</value>
+  </string>
+  <string key="BlackFindsPackNoAlphaPackMsg">
+  <value>Salah satu serigala, {0} membawa Black Wolf {1} malam ini. Karena kamu kagum melihat jiwa kepemimpinannya, kalian memutuskan dia untuk menjadi Alpha Wolf.</value>
+  </string>
+  <string key="BlackFindsPackWWMsg">
+  <value>Black Wolf {0} datang ke rumahmu tadi malam. Dia menawarkan diri sebagai Alpha. Namun kamu tidak bisa berbuat banyak, sudah ada Alpha Wolf di dalam kawananmu.</value>
+  </string>
+  <string key="BlackFindsNothingBlackMsg">
+  <value>Kamu masuk ke rumah {0} untuk mencari Alpha Wolf, Namun ternyata {0} bukanlah serigala, apalagi Alpha.</value>
+  </string>
+  <string key="PackFindsBlackNoAlphaBlackMsg">
+  <value> Kawanan serigala mencoba memakanmu tadi malam. Lalu mereka menyadari kamu adalah Black Wolf. Jiwa kepemimpinan dalam dirimu membuat seluruh serigala tunduk. Mereka menjadikanmu Alpha Wolf. Teman serigalamu adalah: {0}</value>
+  </string>
+  <string key="PackFindsBlackNoAlphaWwMsg">
+  <value>Kamu tidak menduga, targetmu malam ini {0} berubah wujud menjadi Black Wolf. Jiwa kepemimpinannya membuatmu tunduk dan kamu memilihnya untuk menjadi Alpha Wolf.</value>
+  </string>
+  <string key="FleeAccepted">
+  <value>Kamu berhasil kabur, btw, kamu nggk bakal bisa kabur (kalau admin sudah nonaktifkan perintah ini!)</value>
+  </string>
+  <string key="DgFallen">
+  <value>Doppelganger {0} telah berubah menjadi Fallen Angel !! Selamat, kamu telah mendapatkan sekutu baru! :D</value>
+  </string>
+  <string key="NecroFallen">
+  <value>Necromancer {0} telah berubah menjadi fallen angel! Selamat, kamu telah mendapatkan sekutu baru! :D</value>
+  </string>
+<string key="Necromancer">
+	<value>Necromancer ⚰️</value>
+</string>
+<string key="AboutNecromancer">
+	<value> Necromancer ⚰️. Kamu bisa memilih untuk menggantikan role yang telah mati. Necromancer bisa memilih role yang dia inginkan. Jika permainan berakhir saat dia masih menjadi necromancer, dia akan kalah! Necromancer dan Doppelganger tidak akan muncul di permainan yang sama.</value>
+</string>
+<string key="RoleInfoNecromancer">
+	<value>Kamu adalah Necromancer ⚰️! Kamu bisa memilih role yang kamu inginkan dari mereka yang telah kembali ke alam sana. Tentukan pilihanmu dengan bijak. Selamat memilih sayang :* .</value>
+</string>
+<string key="NoDeadYet">
+	<value>Belum ada korban tewas, tidak ada yang bisa kamu pilih.</value>
+</string>
+<string key="WhichRole">
+	<value>Mana yang akan kamu pilih? Kamu mengambil peran....</value>
+</string>
+<string key="NecromancerNewRole">
+	<!--{1} might be teammates text if he becomes a role that has team mates or has a role model-->
+	<value>Kamu memutuskan untuk menjadi {0}! {1}</value>
+</string>
+<string key="NecromancerTeammates">
+	<value>Tim mu adalah: {0}</value>
+</string>
+<string key="NecromancerRoleModel">
+	<value>Role model mu adalah {0}!</value>
+</string>
+<string key="NecromancerMartyr">
+	<value>Kamu telah menjadi seorang Martyr, kamu rela mati demi {0}!</value>
+</string>
+<string key="NecromancerBh">
+	<value>Kamu telah menjadi Beholder! Penerawang (Seer) sejati adalah {0}!</value>
+</string>
+<string key="NecromancerSeer">
+	<value>Necromancer {0} memutuskan untuk menjadi seorang penerawang (Seer)!</value>
+</string>
+<string key="NecromancerMason">
+	<value>Mason telah kedatangan anggota baru! {0} mantan Necromancer telah bergabung menjadi Mason.</value>
+</string>
+<string key="NecromancerWolf">
+	<value>Necromancer {0} Telah memutuskan untuk menjadi Serigala. Selamat! Kamu memiliki teman baru.</value>
+</string>
+<string key="NecromancerCult">
+	<value>BIDIP! BIDIP! Necromancer {0} memutuskan untuk menjadi pemuja kerang kutil ajaib. ULULULULULU.</value>
+</string>
+<string key="BlackQuestion">
+	<value>Siapa yang akan kamu periksa malam ini?</value>
+</string>
+<string key="AlphaDied">
+	<value>Pagi telah tiba, Warga desa menemukan pepohonan tumbang di pinggir hutan! Sepertinya telah terjadi duel hebat tadi malam. Mayat {0} ditemukan diantara pepohonan, ternyata Alpha Wolf telah kalah dalam duel maut!.</value>
+    <value>Alun-alun terlihat sangat berantakan pagi ini, Warga desa menemukan pagar pembatas roboh! Sepertinya telah terjadi duel hebat tadi malam. Mayat {0} ditemukan tertancap di ujung tiang bendera, ternyata Alpha Wolf telah tewas dalam duel maut!.</value>
+</string>
+<string key="BlackDied">
+	<value>Pagi telah tiba, Warga desa menemukan pepohonan tumbang di pinggir hutan! Mayat {0} ditemukan diantara pepohonan, ternyata Black Wolf telah kalah dalam duel maut melawan Alpha malam tadi. </value>
+    <value>Alun-alun terlihat sangat berantakan pagi ini bercak darah terlihat di semua tempat, Sepertinya telah terjadi duel hebat tadi malam. Mayat {0} ditemukan tertancap di ujung tiang bendera, ternyata Black Wolf telah gugur dalam duel maut!.</value>
+</string>
+<string key="BlackLovesBeauty">
+	<value>Kamu pergi ke rumah {0} untuk mencari Alpha, namun kamu menemukan belahan jiwamu. Kamu tidak sabar untuk membangunkan {0} dan memeluknya. Selamat, kamu tidak jomblo lagi 😘 .</value>
+</string>
+<string key="Stormbringer">
+	<value>Storm Bringer 🌩</value>
+</string>
+<string key="AboutStormbringer">
+	<value>Storm Bringer 🌩. Kamu adalah pawang badai. kamu bisa mendatangkan hujan yang CETTARR MEMBAHANA badai 🌩 di malam hari yang membuat warga desa tidak keluyuran malam-malam, sehingga warga hanya bisa diam di rumah sambil menanti badai malam itu reda.</value>
+</string>
+<string key="RoleInfoStormbringer">
+	<value>Storm Bringer 🌩. Kamu adalah pawang badai. kamu bisa mendatangkan hujan yang CETTARR MEMBAHANA badai 🌩 di malam hari yang membuat warga desa tidak keluyuran malam-malam, sehingga warga hanya bisa diam di rumah sambil menanti badai malam itu reda.</value>
+</string>
+<string key="AskSummon">
+	<value>Apakah kamu akan mendatangkan hujan badai malam ini?</value>
+</string>
+<string key="StormbringerSummon">
+	<value>Langit malam yang cerah tiba-tiba mendung. Terlihat cahaya dari rumah {0} . 🌩JDERR,..!!! 🌩JDARR,..!!! Petir menyambar, tiba-tiba hujan badai datang, membuat warga tidak dapat menjalankan aktivitas malamnya.</value>
+</string>
+<string key="StormbringerNightOver">
+	<value>Awan hitampun hilang,... Matahari BERSINAR. badai telah reda, warga desa membersihkan sisa kekacauan akibat badai malam tadi.</value>
+</string>
+<string key="Arsonist">
+	<value>Arsonist 🔥</value>
+</string>
+<string key="RoleInfoArsonist">
+	<value>Kamu adalah Arsonist 🔥 seseorang yang ahli dalam bermain api, Setiap malam, kamu bisa memilih untuk menyiram rumah warga dengan bahan bakar racikanmu sendiri, atau kamu bisa memilih untuk membakar rumah yang telah kamu siram sebelumnya. Kamu akan menang jika kamu berhasil hidup hingga permainan berakhir.</value>
+</string>
+<string key="AboutArsonist">
+	<value>Kamu adalah Arsonist 🔥! Kamu ahli dalam bermain api, Setiap malam, kamu bisa memilih untuk menyiram rumah warga dengan bahan bakar racikanmu sendiri, atau kamu bisa memilih untuk membakar rumah yang telah kamu siram sebelumnya. Kamu akan menang jika kamu berhasil hidup hingga permainan berakhir.</value>
+</string>
+<string key="ArsonistQuestion">
+    <value>Rumah siapa yang akan kamu siram malam ini? atau kamu memilih untuk membakar rumah yang sudah kamu siram kemarin?</value>
+</string>
+<string key="Light">
+	<value>🔥🔥 Bakar! 🔥🔥</value>
+</string>
+<string key="Doused">
+	<value>Kamu telah berhasil menyiram bahan bakar ke rumah {0} .</value>
+</string>
+<string key="GuardSavedYouFromFire">
+    <value>Kamu terbangun di tengah malam, mencium bau asap dari sekitarmu. GAWAT,..!!!! rumahmu telah terbakar. kamu mencoba mencari pertolongan, dan Guardian Angel datang tepat pada waktunya, menyelamatkanmu dari kobaran api.</value>
+</string>
+<string key="GuardSavedFromFire">
+	<value>TEPAT WAKTU,..!!! kamu berhasil tiba di rumah {0} sebelum dia ikut terbakar bersama rumahnya.</value>
+</string>
+<string key="Burn">
+	<value>Kamu terbangun di tengah malam, mencium bau asap dari sekitarmu. GAWAT,..!!!! rumahmu telah terbakar. Kamu berteriak meminta pertolongan, sayang sekali tidak ada yang mendengarmu. kamu telah tewas terbakar! </value>
+</string>
+<string key="Burning">
+	<value>Wiuw! wiuw! wiuw! Mobil pemadam kebakaran berkumpul di rumah 🔥🔥 {0} 🔥🔥 Tim pemadam terlambat. Yang tersisa hanya rumah yang kini telah menjadi abu! Di dalamnya ditemukan mayat {0} yang telah terpanggang dan gosong.</value>
+</string>
+<string key="Clean">
+	<value>Kamu pergi ke rumah {0} namun kamu mencium cairan berbau aneh di dinding rumahnya. Kamu memutuskan untuk membersihkan cairan itu.</value>
+</string>
+<string key="ArsonistWin">
+	<value>🔥🔥🔥 Seluruh desa tenggelam dalam kobaran api. Arsonist telah menang, ia duduk sambil mencium aroma abu kemenangan!!!. 🔥🔥🔥</value>
+</string>
+<string key="Cultus">
+ <value>Cultus</value>
+</string>
+<string key="CultismHelp">
+ <value>(CULTUS). Ini adalah permainan membasmi pemuja kerang ajaib, tidak ada serigala di sini. hanya warga desa biasa yang baik hati dan tidak sombong, namun suka micin.</value>
+ </string>
+  <string key="AllowCultus">
+    <value>Aktifkan Cultus mode</value>
+  </string>
+  <string key="AllowCultusQ">
+    <value>Apakah kamu ingin membolehkan mode game Cultus?\nCurrent: {0}</value>
+  </string>
+  <string key="AllowCultusA">
+    <value>Mengijinkan mode game Cultus diset ke {0}</value>
+  </string>
+  <string key="NoLoneBad">
+    <value>Kemenangan satu musuh bersamaan</value>
+  </string>
+  <string key="NoLoneBadQ">
+    <value>Apakah kamu ingin membolehkan kemenangan oleh satu musuh bersamaan (serial killer, puppet master, arsonist, dll.)?\nCurrent: {0}</value>
+  </string>
+  <string key="EnemiesWin">
+    <value>Teamwork adalah kerjasama! Musuh yang biasanya kerja sendirian sekarang menang bersama-sama! Hedop!</value>
+  </string>
+  <string key="NoLoneBadA">
+    <value>Mengijinkan kemenangan oleh satu musuh diset ke {0}</value>
+  </string>
+  <string key="DisabledCultus">
+    <value>Mode game Cultus telah dinonaktifkan oleh admin grup.</value>
+  </string>
+  <string key="ModeInfo">
+    <value>Kamu dapat menggunakan perintah /modeinfo untuk mendapatkan informasi tentang mode game yang sedang berlangsung!</value>
+  </string>
+  <string key="PlayerStartedCultusGame">
+    <value>Siap membasmi pemuja kerang kutil? {0} telah memulai permainan (CULTUS) ! </value>
+  </string> 
 </strings>
