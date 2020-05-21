@@ -2883,10 +2883,10 @@
     <value>Romantic</value>
   </string>
   <string key="StartGameGroup">
-    <value>{0} Telah memulai permainan! {0}, Silahkan pilih mode yang diinginkan di personal chat. Atau gunakan tombol di bawah ini. Jika kamu tidak memilih dalam 30 detik, orang lain yang akan memilihkannya. milih aja lama :P </value>
+    <value>{0} alah mamulai pamainan! {0}, Silakan piliah mode pamainan di personal chat. Bisa juo pakai tombol di bawah ko. Kalau sanak indak mamiliahnyo dalam 30 datiak, urang lain nan ka mamiliahnyo.</value>
   </string>
   <string key="GetModeMenu">
-    <value>Gunakan tombol di bawah ini untuk memilih mode!</value>
+    <value>Pakai tombol di bawah ko untuak piliah mode!</value>
   </string>
   <string key="GameAlreadyStarted">
     <value>Uppss,.. sepertinya permainan lain telah berlangsung! gunakan tombol di bawah ini untuk memilih mode yang diinginkan. jika tidak bisa, tunggu 30 detik. </value>
@@ -2895,7 +2895,7 @@
     <value>❓</value>
   </string>
   <string key="ChooseMode">
-    <value>Silahkan pilih mode yang diinginkan. jika kamu bingung, pilih tanda tanya (?).</value>
+    <value>Silakan piliah mode nan sanak nio. Kalau sanak binguang, piliah tando tanyo (?).</value>
   </string>
   <string key="NormalHelp">
     <value>(NORMAL), Semua role tersedia (kecuali yang sudah dinonaktifkan oleh admin). jumlah bad dan good role telah diatur agar seimbang.</value>
@@ -2907,7 +2907,7 @@
     <value>(FOOLISH), Role yang diberikan kebanyakan fool, satu WEREWOLF, dan satu SEER asli. Jika jumlah pemain lebih dari 10 orang, akan ada App.Seer, Sorcerer, dan Oracle 🤭🤭🤭 </value>
   </string>
   <string key="MightyHelp">
-    <value>(MIGHTY). Capek dapet role gaguna? Di mode ini kamu akan selalu dapat role yang berguna, nggak cuma nunggu di nom serigala. BAKAR,..!!! 🔥🔥🔥🔥🔥🔥 </value>
+    <value>(MIGHTY).  Ko mode game nan sadoalah pamainnyo dapek role penting-penting se sanak. Bantuaknyo sero lo kan? Pek lah join! </value>
   </string>
   <string key="ClassicHelp">
     <value>(CLASSIC) . Role yang tersedia di mode ini hanya : Warga desa, Seer, Drunk, Harlot dan Serigala NOM NOM NOM .</value>
@@ -3071,55 +3071,55 @@
     <value>Storm Bringer 🌩</value>
   </string>
   <string key="AboutStormbringer">
-    <value>Storm Bringer 🌩. Kamu adalah pawang badai. kamu bisa mendatangkan hujan yang CETTARR MEMBAHANA badai 🌩 di malam hari yang membuat warga desa tidak keluyuran malam-malam, sehingga warga hanya bisa diam di rumah sambil menanti badai malam itu reda.</value>
+    <value>Storm Bringer 🌩. Sanak bisa mambuek kilek patuih basarato badai kancang nan mambuek warga indak bisa beraktivitas pado malam hari sampai cuaca normal baliak.</value>
   </string>
   <string key="RoleInfoStormbringer">
-    <value>Storm Bringer 🌩. Kamu adalah pawang badai. kamu bisa mendatangkan hujan yang CETTARR MEMBAHANA badai 🌩 di malam hari yang membuat warga desa tidak keluyuran malam-malam, sehingga warga hanya bisa diam di rumah sambil menanti badai malam itu reda.</value>
+    <value>Storm Bringer 🌩. Sanak bisa mambuek kilek patuih basarato badai kancang nan mambuek warga indak bisa beraktivitas pado malam hari sampai cuaca normal baliak.</value>
   </string>
   <string key="AskSummon">
-    <value>Apakah kamu akan mendatangkan hujan badai malam ini?</value>
+    <value>Apokah sanak nio mambuek kilek patuih malam ko?</value>
   </string>
   <string key="StormbringerSummon">
-    <value>Langit malam yang cerah tiba-tiba mendung. Terlihat cahaya dari rumah {0} . 🌩JDERR,..!!! 🌩JDARR,..!!! Petir menyambar, tiba-tiba hujan badai datang, membuat warga tidak dapat menjalankan aktivitas malamnya.</value>
+    <value>Nampak cahayo di rumah {0}. Antah apo nan dikarajoan {0}, mambuek kilek patuih jo badai 🌩 malam ko. Masyarakaik indak bisa beraktivitas!</value>
   </string>
   <string key="StormbringerNightOver">
-    <value>Awan hitampun hilang,... Matahari BERSINAR. badai telah reda, warga desa membersihkan sisa kekacauan akibat badai malam tadi.</value>
+    <value>Matohari lah naiak. Masyarakaik pun sibuak mambarasiahan kekacauan dek badai samalam!</value>
   </string>
   <string key="Arsonist">
     <value>Arsonist 🔥</value>
   </string>
   <string key="RoleInfoArsonist">
-    <value>Kamu adalah Arsonist 🔥 seseorang yang ahli dalam bermain api, Setiap malam, kamu bisa memilih untuk menyiram rumah warga dengan bahan bakar racikanmu sendiri, atau kamu bisa memilih untuk membakar rumah yang telah kamu siram sebelumnya. Kamu akan menang jika kamu berhasil hidup hingga permainan berakhir.</value>
+    <value>Sanak adolah Arsonist 🔥. Sanak bisa manyiram bensin ka rumah salah satu masyarakaik tiok malamnyo atau bisa mamiliah mambaka rumah nan alah disiram jo bensin.</value>
   </string>
   <string key="AboutArsonist">
-    <value>Kamu adalah Arsonist 🔥! Kamu ahli dalam bermain api, Setiap malam, kamu bisa memilih untuk menyiram rumah warga dengan bahan bakar racikanmu sendiri, atau kamu bisa memilih untuk membakar rumah yang telah kamu siram sebelumnya. Kamu akan menang jika kamu berhasil hidup hingga permainan berakhir.</value>
+    <value>Sanak adolah Arsonist 🔥. Sanak bisa manyiram bensin ka rumah salah satu masyarakaik tiok malamnyo atau bisa mamiliah mambaka rumah nan alah disiram jo bensin.</value>
   </string>
   <string key="ArsonistQuestion">
-    <value>Rumah siapa yang akan kamu siram malam ini? atau kamu memilih untuk membakar rumah yang sudah kamu siram kemarin?</value>
+    <value>Rumah sia nan ka sanak siram jo bensin? Atau sanak ka mambaka rumah nan alah disiram patang?</value>
   </string>
   <string key="Light">
-    <value>🔥🔥 Bakar! 🔥🔥</value>
+    <value>🔥🔥 Baka! 🔥🔥</value>
   </string>
   <string key="Doused">
-    <value>Kamu telah berhasil menyiram bahan bakar ke rumah {0} .</value>
+    <value>Sanak alah manyiram bensin ka rumah {0} .</value>
   </string>
   <string key="GuardSavedYouFromFire">
-    <value>Kamu terbangun di tengah malam, mencium bau asap dari sekitarmu. GAWAT,..!!!! rumahmu telah terbakar. kamu mencoba mencari pertolongan, dan Guardian Angel datang tepat pada waktunya, menyelamatkanmu dari kobaran api.</value>
+    <value>Rumah sanak tabaka!🔥🔥 Tapi tanang sanak! Si Guardian Angel 👼 berhasil manyalamekan sanak dari kobaran api!.</value>
   </string>
   <string key="GuardSavedFromFire">
-    <value>TEPAT WAKTU,..!!! kamu berhasil tiba di rumah {0} sebelum dia ikut terbakar bersama rumahnya.</value>
+    <value>Tapek bana sanak! Sanak berhasil manyalamekan {0} dari rumahnyo nan tabaka!.</value>
   </string>
   <string key="Burn">
-    <value>Kamu terbangun di tengah malam, mencium bau asap dari sekitarmu. GAWAT,..!!!! rumahmu telah terbakar. Kamu berteriak meminta pertolongan, sayang sekali tidak ada yang mendengarmu. kamu telah tewas terbakar! </value>
+    <value>🔥🔥 RUMAH SANAK TABAKA! Dak dapek diaka lai, sanak dak bisa salamaik dari kebakaran. Sanak tewas!</value>
   </string>
   <string key="Burning">
-    <value>Wiuw! wiuw! wiuw! Mobil pemadam kebakaran berkumpul di rumah 🔥🔥 {0} 🔥🔥 Tim pemadam terlambat. Yang tersisa hanya rumah yang kini telah menjadi abu! Di dalamnya ditemukan mayat {0} yang telah terpanggang dan gosong.</value>
+    <value>🔥🔥 Rumah si {0} tabaka! {0} pun tewas tabaka.</value>
   </string>
   <string key="Clean">
-    <value>Kamu pergi ke rumah {0} namun kamu mencium cairan berbau aneh di dinding rumahnya. Kamu memutuskan untuk membersihkan cairan itu.</value>
+    <value>Sanak pai ka rumah {0}. RUmahnyo babaun bensin, sanak pun mambarasiahan rumahnyo. Rumah {0} alah barasiah!</value>
   </string>
   <string key="ArsonistWin">
-    <value>🔥🔥🔥 Seluruh desa tenggelam dalam kobaran api. Arsonist telah menang, ia duduk sambil mencium aroma abu kemenangan!!!. 🔥🔥🔥</value>
+    <value>🔥🔥🔥 ARSONIST MANANG! 🔥🔥🔥</value>
   </string>
   <string key="Cultus">
     <value>Cultus</value>
@@ -3146,7 +3146,7 @@
     <value>Teamwork adalah kerjasama! Musuh yang biasanya kerja sendirian sekarang menang bersama-sama! Hedop!</value>
   </string>
   <string key="NoLoneBadA">
-    <value>Mengijinkan kemenangan oleh satu musuh diset ke {0}</value>
+    <value>Ciek musuah bisa manang alah diset ka {0}</value>
   </string>
   <string key="DisabledCultus">
     <value>Mode game Cultus telah dinonaktifkan oleh admin grup.</value>
@@ -3156,5 +3156,44 @@
   </string>
   <string key="PlayerStartedCultusGame">
     <value>Siap membasmi pemuja kerang kutil? {0} telah memulai permainan (CULTUS) ! </value>
+  </string>
+  <string key="EnemiesWin">
+    <value>Musuah nan biasonyo karajo surang alah manang basamo!</value>
+  </string>
+  <string key="BurningHarlot">
+    <value>{0} baniek nio mambaka asmara jo polenyo tadi malam. Eh, kiroe tabaka sabananyo. Si Harlot 💋 pun ikuik tabaka.</value>
+  </string>
+  <string key="ThiefDiesByArsonist">
+    <value>Sanak baniek nio mancilok ka rumah {0} tapi sabalun sanak mulai macilok, {0} manyiram sanak jo bensin sudah tu mambaka sanak. Sanak pun tewas!</value>
+  </string>
+  <string key="ThiefDiesByArsonistGroup">
+    <value>Si Pancilok {0} nio mancilak ka rumah sanak tadi malam, sanak pun manyiram {0} jo bensin dan mambakanyo sampai mati.</value>
+  </string>
+  <string key="CultDiesByArsonistGroup">
+    <value>Urang bunian nio maajak Si Arsonist tadi malam. Malang Si Urang Bunian {0}, disiram jo bensin, sudah tu dibaka sampai mati!</value>
+  </string>
+  <string key="HiddenAction" deprecated="true">
+    <value>You managed to do today's hidden action! The hidden action was: {0}. Your daily progress has been added to the database for all players. If you manage to get 3 out of 5 hidden, daily changing actions from 31-10-2019 until 04-11-2019 you get this year's Halloween achievement!</value>
+  </string>
+  <string key="HiddenAction1" deprecated="true">
+    <value>Have three seers in one game</value>
+  </string>
+  <string key="HiddenAction2" deprecated="true">
+    <value>Mystic marks a werewolf</value>
+  </string>
+  <string key="HiddenAction3" deprecated="true">
+    <value>The lovers die first night (not in romantic game mode!)</value>
+  </string>
+  <string key="HiddenAction4" deprecated="true">
+    <value>Puppet master wins a game of at least 20 people</value>
+  </string>
+  <string key="HiddenAction5" deprecated="true">
+    <value>The villagers lose a foolish game</value>
+  </string>
+  <string key="Achievement89Name">
+    <value>Happy Halloween 2019</value>
+  </string>
+  <string key="Achievement89Descr">
+    <value>Uncover at least three hidden actions from the Halloween Event.</value>
   </string>
 </strings>
